@@ -5,7 +5,15 @@
     <link>https://intel.johncrynick.com</link>
     <description>Latest Rockwell Automation vulnerability intelligence from CISA, NVD, and security news</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 10 Apr 2026 07:55:40 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Apr 2026 13:28:26 +0000</lastBuildDate>
+  <item>
+    <title>Iran-linked hackers target water, energy in US, FBI and CISA warn - Cybersecurity Dive</title>
+    <link>https://intel.johncrynick.com/cve/448935aed32c95c79c7173e613d80ff3.html</link>
+    <description>Iran-linked hackers target water, energy in US, FBI and CISA warn  Cybersecurity Dive</description>
+    <pubDate>Thu, 09 Apr 2026 03:35:32 +0000</pubDate>
+    <category>NEWS</category>
+    <guid isPermaLink="true">https://intel.johncrynick.com/cve/448935aed32c95c79c7173e613d80ff3.html</guid>
+  </item>
   <item>
     <title>SD1771 | IMPORTANT NOTICE: Rockwell Automation Reiterates Customer Guidance to Disconnect Devices from the Internet and Harden PLCs to Protect from Cyber Threats</title>
     <link>https://intel.johncrynick.com/cve/0b9b365027561a27c6e3fae2c704eaeb.html</link>
@@ -397,14 +405,6 @@
     <pubDate>Tue, 14 Oct 2025 00:00:00 +0000</pubDate>
     <category>ROCKWELL</category>
     <guid isPermaLink="true">https://intel.johncrynick.com/cve/cd3bcd14a9a33ccae554ea08acd1ccd9.html</guid>
-  </item>
-  <item>
-    <title>SD1751 | ArmorStart® AOP Denial-of-Service Vulnerability</title>
-    <link>https://intel.johncrynick.com/cve/18ebb687bddf8e5b100423ad7fba32da.html</link>
-    <description></description>
-    <pubDate>Tue, 14 Oct 2025 00:00:00 +0000</pubDate>
-    <category>ROCKWELL</category>
-    <guid isPermaLink="true">https://intel.johncrynick.com/cve/18ebb687bddf8e5b100423ad7fba32da.html</guid>
   </item>
   </channel>
 </rss>

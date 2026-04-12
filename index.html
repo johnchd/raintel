@@ -538,11 +538,6 @@ footer {
 <div class="stats-grid">
   
   <div class="stat-box">
-    <div class="stat-label">Last 72h</div>
-    <div class="stat-value">1</div>
-    <span class="stat-severity sev-none"></span>
-  </div>
-  <div class="stat-box">
     <div class="stat-label">Last 7 days</div>
     <div class="stat-value">1</div>
     <span class="stat-severity sev-none"></span>
@@ -554,7 +549,7 @@ footer {
   </div>
 </div>
 <div class="source-breakdown"><strong style="color:var(--text)">Last 30 days by source</strong> &nbsp;&nbsp; CISA KEV: <span>0</span> &nbsp;|&nbsp; CISA ICS: <span>0</span> &nbsp;|&nbsp; NVD: <span>0</span> &nbsp;|&nbsp; RA Advisories: <span>1</span> &nbsp;|&nbsp; News: <span>1</span></div>
-<p style="margin-bottom:8px"><span id="latestCount">1</span> findings</p><div class="filter-bar" id="latestFilter"><button class="filter-btn active" data-filter="all">All</button><button class="filter-btn" data-filter="NEWS">News</button></div>
+<p style="color:var(--text-muted);font-size:13px;margin-bottom:16px">No new intelligence in the last 72 hours — showing last 30 days.</p><p style="margin-bottom:8px"><span id="latestCount">2</span> findings</p><div class="filter-bar" id="latestFilter"><button class="filter-btn active" data-filter="all">All</button><button class="filter-btn" data-filter="NEWS">News</button><button class="filter-btn" data-filter="ROCKWELL">RA Advisories</button></div>
 <div class="finding-card" data-source="NEWS" data-products="" data-severity="Unknown" data-published="1775705732000">
   <div class="card-header">
     <div class="card-title"><a href="https://news.google.com/rss/articles/CBMiswFBVV95cUxNLS1TeDFDVHJfNlZkTlVFd2hmRHNVQWxTcUlUY0xsWmVSZDAtaWJ1NVNEcmpnSE83N3lXSkVidGhwRkRaTlJvbkNqN3EtaEhzbzd2UDRYdUV6LXdRaGFTc2tISE9zWEozRzg3N2FZeWdhOWpPdjRmNlM2UVpIZzFvYzNCRmstU0VoWmNXNjJESm4zam9LNUFtclgyQkdaQXhiYmczT1NlSHhOa3hqNHlpdnZpNA?oc=5" target="_blank" rel="noopener">Iran-linked hackers target water, energy in US, FBI and CISA warn - Cybersecurity Dive</a></div>
@@ -571,9 +566,25 @@ footer {
     <a href="https://news.google.com/rss/articles/CBMiswFBVV95cUxNLS1TeDFDVHJfNlZkTlVFd2hmRHNVQWxTcUlUY0xsWmVSZDAtaWJ1NVNEcmpnSE83N3lXSkVidGhwRkRaTlJvbkNqN3EtaEhzbzd2UDRYdUV6LXdRaGFTc2tISE9zWEozRzg3N2FZeWdhOWpPdjRmNlM2UVpIZzFvYzNCRmstU0VoWmNXNjJESm4zam9LNUFtclgyQkdaQXhiYmczT1NlSHhOa3hqNHlpdnZpNA?oc=5" target="_blank" rel="noopener">Source</a>
   </div>
 </div>
+<div class="finding-card" data-source="ROCKWELL" data-products="ControlLogix,CompactLogix,Micro800™ Series" data-severity="Unknown" data-published="1773964800000">
+  <div class="card-header">
+    <div class="card-title"><a href="https://www.rockwellautomation.com/en-us/trust-center/security-advisories/advisory.SD1771.html" target="_blank" rel="noopener">SD1771 | IMPORTANT NOTICE: Rockwell Automation Reiterates Customer Guidance to Disconnect Devices from the Internet and Harden PLCs to Protect from Cyber Threats</a></div>
+    
+    <span class="source-tag">RA Advisories</span>
+  </div>
+  <div class="card-body">
+    <div class="card-meta"><span>3-20-2026</span><span>ControlLogix, CompactLogix, Micro800™ Series</span></div>
+    
+    <div class="card-summary"></div>
+  </div>
+  <div class="card-footer">
+    <a href="cve/0b9b365027561a27c6e3fae2c704eaeb.html">Details</a>
+    <a href="https://www.rockwellautomation.com/en-us/trust-center/security-advisories/advisory.SD1771.html" target="_blank" rel="noopener">Source</a>
+  </div>
+</div>
 </main>
 <footer>
-  Last updated: 2026-04-12 03:31 UTC &nbsp;|&nbsp; <a href="rss.xml">RSS Feed</a>
+  Last updated: 2026-04-12 07:27 UTC &nbsp;|&nbsp; <a href="rss.xml">RSS Feed</a>
 </footer>
 
 <script>

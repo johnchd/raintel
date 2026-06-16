@@ -5,7 +5,95 @@
     <link>https://intel.johncrynick.com</link>
     <description>Latest Rockwell Automation vulnerability intelligence from CISA, NVD, and security news</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 16 Jun 2026 11:28:18 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 17:10:25 +0000</lastBuildDate>
+  <item>
+    <title>Rockwell Automation FLEX I/O EtherNet/IP Adapters</title>
+    <link>https://intel.johncrynick.com/cve/54e1bc53358ed0d2cde2e79ee5b5ff25.html</link>
+    <description>Successful exploitation of these vulnerabilities could allow an attacker to gain unauthorized access, account takeover, and cause loss of availability.</description>
+    <pubDate>Tue, 16 Jun 2026 06:00:00 +0000</pubDate>
+    <category>CISA_ICS</category>
+    <guid isPermaLink="true">https://intel.johncrynick.com/cve/54e1bc53358ed0d2cde2e79ee5b5ff25.html</guid>
+  </item>
+  <item>
+    <title>Rockwell Automation CompactLogix</title>
+    <link>https://intel.johncrynick.com/cve/8657888c2a61d9a28f4f842daa1f29d0.html</link>
+    <description>Successful exploitation of these vulnerabilities could allow an attacker to cause a denial-of-service condition. </description>
+    <pubDate>Tue, 16 Jun 2026 06:00:00 +0000</pubDate>
+    <category>CISA_ICS</category>
+    <guid isPermaLink="true">https://intel.johncrynick.com/cve/8657888c2a61d9a28f4f842daa1f29d0.html</guid>
+  </item>
+  <item>
+    <title>Rockwell Automation Logix 5370 &amp; 5570 Controllers Vulnerable To Denial of Service Via CIP</title>
+    <link>https://intel.johncrynick.com/cve/cbe7239ef96dc9f6e83d761bbc3de3c9.html</link>
+    <description>Successful exploitation of this vulnerability could cause a denial-of-service condition that may result in a major nonrecoverable fault (MNRF).</description>
+    <pubDate>Tue, 16 Jun 2026 06:00:00 +0000</pubDate>
+    <category>CISA_ICS</category>
+    <guid isPermaLink="true">https://intel.johncrynick.com/cve/cbe7239ef96dc9f6e83d761bbc3de3c9.html</guid>
+  </item>
+  <item>
+    <title>RSLinx Classic Third-Party Vulnerability</title>
+    <link>https://intel.johncrynick.com/cve/3eb4a9b076cea403cdb99787360bda38.html</link>
+    <description>Successful exploitation of this vulnerability can lead to a denial of service, where the application will become unresponsive and will not recover on its own. </description>
+    <pubDate>Tue, 16 Jun 2026 06:00:00 +0000</pubDate>
+    <category>CISA_ICS</category>
+    <guid isPermaLink="true">https://intel.johncrynick.com/cve/3eb4a9b076cea403cdb99787360bda38.html</guid>
+  </item>
+  <item>
+    <title>Rockwell Automation FactoryTalk Analytics PavilionX</title>
+    <link>https://intel.johncrynick.com/cve/b47343a25d403dc12fb6d7dd0355decb.html</link>
+    <description>Successful exploitation of this vulnerability could result in an attacker executing privileged operations.</description>
+    <pubDate>Tue, 16 Jun 2026 06:00:00 +0000</pubDate>
+    <category>CISA_ICS</category>
+    <guid isPermaLink="true">https://intel.johncrynick.com/cve/b47343a25d403dc12fb6d7dd0355decb.html</guid>
+  </item>
+  <item>
+    <title>SD1775 | FLEX I/O Dual-port EtherNet/IP Adapters – Multiple Vulnerabilities</title>
+    <link>https://intel.johncrynick.com/cve/03f5a7ae96068d485806ca6157b56f18.html</link>
+    <description></description>
+    <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
+    <category>ROCKWELL</category>
+    <guid isPermaLink="true">https://intel.johncrynick.com/cve/03f5a7ae96068d485806ca6157b56f18.html</guid>
+  </item>
+  <item>
+    <title>SD1774 | RSLinx Classic Third-Party Vulnerability CVE-2020-13573</title>
+    <link>https://intel.johncrynick.com/cve/95c7853229b5a3b527ed3e3c4f16cfdb.html</link>
+    <description></description>
+    <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
+    <category>ROCKWELL</category>
+    <guid isPermaLink="true">https://intel.johncrynick.com/cve/95c7853229b5a3b527ed3e3c4f16cfdb.html</guid>
+  </item>
+  <item>
+    <title>SD1777 | FactoryTalk® Analytics™ PavilionX™ - Improper API Authorization</title>
+    <link>https://intel.johncrynick.com/cve/44f06df1214deb0b07216b2189c22a6d.html</link>
+    <description></description>
+    <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
+    <category>ROCKWELL</category>
+    <guid isPermaLink="true">https://intel.johncrynick.com/cve/44f06df1214deb0b07216b2189c22a6d.html</guid>
+  </item>
+  <item>
+    <title>SD1773 | FactoryTalk Historian Site Edition - Multiple Vulnerabilities</title>
+    <link>https://intel.johncrynick.com/cve/c4dbfc4a7be93428208532fe24707650.html</link>
+    <description></description>
+    <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
+    <category>ROCKWELL</category>
+    <guid isPermaLink="true">https://intel.johncrynick.com/cve/c4dbfc4a7be93428208532fe24707650.html</guid>
+  </item>
+  <item>
+    <title>SD1776 | CompactLogix 5370 Controllers – Multiple Vulnerabilities</title>
+    <link>https://intel.johncrynick.com/cve/b68a27b829716e118c629d4a15abeb93.html</link>
+    <description></description>
+    <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
+    <category>ROCKWELL</category>
+    <guid isPermaLink="true">https://intel.johncrynick.com/cve/b68a27b829716e118c629d4a15abeb93.html</guid>
+  </item>
+  <item>
+    <title>SD1772 | Logix 5370 and 5570 Controllers Vulnerable To Denial of Service Via CIP</title>
+    <link>https://intel.johncrynick.com/cve/6115eb9cbdc22ca72ac628211a7c8dc0.html</link>
+    <description></description>
+    <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
+    <category>ROCKWELL</category>
+    <guid isPermaLink="true">https://intel.johncrynick.com/cve/6115eb9cbdc22ca72ac628211a7c8dc0.html</guid>
+  </item>
   <item>
     <title>Iran-Linked CyberAv3ngers Sets Sights on Water Utilities and Industrial Controllers - CyberSecurityNews</title>
     <link>https://intel.johncrynick.com/cve/a91549918f600cd590c49805fdd09f37.html</link>
@@ -317,94 +405,6 @@
     <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
     <category>ROCKWELL</category>
     <guid isPermaLink="true">https://intel.johncrynick.com/cve/975c7dc0f35b13992d955723a44a97e6.html</guid>
-  </item>
-  <item>
-    <title>SD1758 | FactoryTalk® DataMosaix™ Private Cloud – Multiple Vulnerabilities</title>
-    <link>https://intel.johncrynick.com/cve/bdcf4a5da140e3b5c8d6366238b8ed88.html</link>
-    <description></description>
-    <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
-    <category>ROCKWELL</category>
-    <guid isPermaLink="true">https://intel.johncrynick.com/cve/bdcf4a5da140e3b5c8d6366238b8ed88.html</guid>
-  </item>
-  <item>
-    <title>SD1761 |  SIS Workstation DotNetZip Third-Party Vulnerability CVE-2024-48510</title>
-    <link>https://intel.johncrynick.com/cve/a04c3ea01404f69dbfcdc98bc8dc59a6.html</link>
-    <description></description>
-    <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
-    <category>ROCKWELL</category>
-    <guid isPermaLink="true">https://intel.johncrynick.com/cve/a04c3ea01404f69dbfcdc98bc8dc59a6.html</guid>
-  </item>
-  <item>
-    <title>SD1762 | FactoryTalk® Policy Manager Third-Party Vulnerability</title>
-    <link>https://intel.johncrynick.com/cve/c43982ed668475d3379d3a0e84929d08.html</link>
-    <description></description>
-    <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
-    <category>ROCKWELL</category>
-    <guid isPermaLink="true">https://intel.johncrynick.com/cve/c43982ed668475d3379d3a0e84929d08.html</guid>
-  </item>
-  <item>
-    <title>Rockwell Automation Compact GuardLogix 5370</title>
-    <link>https://intel.johncrynick.com/cve/644e1e3cefd48c9bb35177cbfc42557c.html</link>
-    <description>Successful exploitation of this vulnerability could result in a denial-of-service.</description>
-    <pubDate>Tue, 21 Oct 2025 06:00:00 +0000</pubDate>
-    <category>CISA_ICS</category>
-    <guid isPermaLink="true">https://intel.johncrynick.com/cve/644e1e3cefd48c9bb35177cbfc42557c.html</guid>
-  </item>
-  <item>
-    <title>Rockwell Automation 1783-NATR</title>
-    <link>https://intel.johncrynick.com/cve/c1aee2f3925dee6263e85e0004eede34.html</link>
-    <description>Successful exploitation of these vulnerabilities could result in a denial-of-service, data modification, or in an attacker obtaining sensitive information.</description>
-    <pubDate>Tue, 21 Oct 2025 06:00:00 +0000</pubDate>
-    <category>CISA_ICS</category>
-    <guid isPermaLink="true">https://intel.johncrynick.com/cve/c1aee2f3925dee6263e85e0004eede34.html</guid>
-  </item>
-  <item>
-    <title>Rockwell Automation ArmorStart AOP</title>
-    <link>https://intel.johncrynick.com/cve/b53fd5ce6d7b7d459e2406a274217549.html</link>
-    <description>Successful exploitation of this vulnerability could allow an attacker to cause a denial-of-service condition on the affected product. </description>
-    <pubDate>Thu, 16 Oct 2025 06:00:00 +0000</pubDate>
-    <category>CISA_ICS</category>
-    <guid isPermaLink="true">https://intel.johncrynick.com/cve/b53fd5ce6d7b7d459e2406a274217549.html</guid>
-  </item>
-  <item>
-    <title>Rockwell Automation FactoryTalk ViewPoint</title>
-    <link>https://intel.johncrynick.com/cve/762b7d8172ec7b59fdd1b397ae050d44.html</link>
-    <description>Successful exploitation of this vulnerability could allow unauthenticated attackers to achieve XML external entity injection, resulting in a temporary denial-of-service condition. </description>
-    <pubDate>Thu, 16 Oct 2025 06:00:00 +0000</pubDate>
-    <category>CISA_ICS</category>
-    <guid isPermaLink="true">https://intel.johncrynick.com/cve/762b7d8172ec7b59fdd1b397ae050d44.html</guid>
-  </item>
-  <item>
-    <title>Rockwell Automation FactoryTalk Linx</title>
-    <link>https://intel.johncrynick.com/cve/55d9accc1b4a9cf8cacefee61b732cef.html</link>
-    <description>Successful exploitation of these vulnerabilities may allow full access to all files, processes, and system resources.</description>
-    <pubDate>Thu, 16 Oct 2025 06:00:00 +0000</pubDate>
-    <category>CISA_ICS</category>
-    <guid isPermaLink="true">https://intel.johncrynick.com/cve/55d9accc1b4a9cf8cacefee61b732cef.html</guid>
-  </item>
-  <item>
-    <title>Rockwell Automation FactoryTalk View Machine Edition and PanelView Plus 7</title>
-    <link>https://intel.johncrynick.com/cve/7c071f9fc4932682779358a052ff6012.html</link>
-    <description>Successful exploitation of these vulnerabilities could allow an unauthenticated attacker to access to the device&#x27;s file system.</description>
-    <pubDate>Thu, 16 Oct 2025 06:00:00 +0000</pubDate>
-    <category>CISA_ICS</category>
-    <guid isPermaLink="true">https://intel.johncrynick.com/cve/7c071f9fc4932682779358a052ff6012.html</guid>
-  </item>
-  <item>
-    <title>Rockwell Automation 1715 EtherNet/IP Comms Module</title>
-    <link>https://intel.johncrynick.com/cve/2f22842b839c1837b171b92929d8e14b.html</link>
-    <description>Successful exploitation of these vulnerabilities could allow an attacker to cause the web server to crash, requiring a restart to recover. </description>
-    <pubDate>Tue, 14 Oct 2025 06:00:00 +0000</pubDate>
-    <category>CISA_ICS</category>
-    <guid isPermaLink="true">https://intel.johncrynick.com/cve/2f22842b839c1837b171b92929d8e14b.html</guid>
-  </item>
-  <item>
-    <title>SD1754 | FactoryTalk® Linx Privilege Escalation Vulnerabilities</title>
-    <link>https://intel.johncrynick.com/cve/c4bfd8b7471e122f49f4507f15a3a01b.html</link>
-    <description></description>
-    <pubDate>Tue, 14 Oct 2025 00:00:00 +0000</pubDate>
-    <category>ROCKWELL</category>
-    <guid isPermaLink="true">https://intel.johncrynick.com/cve/c4bfd8b7471e122f49f4507f15a3a01b.html</guid>
   </item>
   </channel>
 </rss>

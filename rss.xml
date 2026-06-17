@@ -5,7 +5,15 @@
     <link>https://intel.johncrynick.com</link>
     <description>Latest Rockwell Automation vulnerability intelligence from CISA, NVD, and security news</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 17 Jun 2026 11:12:09 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 15:59:03 +0000</lastBuildDate>
+  <item>
+    <title>Rockwell Automation Patches Vulnerabilities in ICS Controllers and Software - SecurityWeek</title>
+    <link>https://intel.johncrynick.com/cve/f02241603d2064a95cccc17aac202feb.html</link>
+    <description>Rockwell Automation Patches Vulnerabilities in ICS Controllers and Software  SecurityWeek</description>
+    <pubDate>Wed, 17 Jun 2026 11:42:11 +0000</pubDate>
+    <category>NEWS</category>
+    <guid isPermaLink="true">https://intel.johncrynick.com/cve/f02241603d2064a95cccc17aac202feb.html</guid>
+  </item>
   <item>
     <title>Rockwell Automation FLEX I/O EtherNet/IP Adapters</title>
     <link>https://intel.johncrynick.com/cve/54e1bc53358ed0d2cde2e79ee5b5ff25.html</link>
@@ -397,14 +405,6 @@
     <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
     <category>ROCKWELL</category>
     <guid isPermaLink="true">https://intel.johncrynick.com/cve/f3e87a0a80a52c5ecbaac8ecae097698.html</guid>
-  </item>
-  <item>
-    <title>SD1759 | Verve Asset Manager Access Control Vulnerability</title>
-    <link>https://intel.johncrynick.com/cve/975c7dc0f35b13992d955723a44a97e6.html</link>
-    <description></description>
-    <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
-    <category>ROCKWELL</category>
-    <guid isPermaLink="true">https://intel.johncrynick.com/cve/975c7dc0f35b13992d955723a44a97e6.html</guid>
   </item>
   </channel>
 </rss>

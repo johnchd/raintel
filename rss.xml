@@ -5,7 +5,15 @@
     <link>https://intel.johncrynick.com</link>
     <description>Latest Rockwell Automation vulnerability intelligence from CISA, NVD, and security news</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 18 Jun 2026 15:44:51 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 20:35:36 +0000</lastBuildDate>
+  <item>
+    <title>Rockwell Automation FactoryTalk Historian Site Edition</title>
+    <link>https://intel.johncrynick.com/cve/39cbfb3b11a100826c9474379abbece6.html</link>
+    <description>Successful exploitation of these vulnerabilities could allow an attacker to obtain a valid authentication token, perform a denial of service, or crash the system.</description>
+    <pubDate>Thu, 18 Jun 2026 06:00:00 +0000</pubDate>
+    <category>CISA_ICS</category>
+    <guid isPermaLink="true">https://intel.johncrynick.com/cve/39cbfb3b11a100826c9474379abbece6.html</guid>
+  </item>
   <item>
     <title>Rockwell Automation: Patch for critical vulnerabilities in ICS Controllers - SecNews.gr</title>
     <link>https://intel.johncrynick.com/cve/f4ec0fe9dfad1c154836cc5bfaf44702.html</link>
@@ -397,14 +405,6 @@
     <pubDate>Thu, 13 Nov 2025 07:00:00 +0000</pubDate>
     <category>CISA_ICS</category>
     <guid isPermaLink="true">https://intel.johncrynick.com/cve/d88cb9647c49a90681098b0e3388ab60.html</guid>
-  </item>
-  <item>
-    <title>Rockwell Automation FactoryTalk DataMosaix Private Cloud</title>
-    <link>https://intel.johncrynick.com/cve/428777aab63a4ef3bc67bd0ba6942438.html</link>
-    <description>Successful exploitation of these vulnerabilities could allow an attacker to take over accounts, steal credentials, redirect users to a malicious website, or bypass MFA.</description>
-    <pubDate>Thu, 13 Nov 2025 07:00:00 +0000</pubDate>
-    <category>CISA_ICS</category>
-    <guid isPermaLink="true">https://intel.johncrynick.com/cve/428777aab63a4ef3bc67bd0ba6942438.html</guid>
   </item>
   </channel>
 </rss>

@@ -5,7 +5,7 @@
     <link>https://intel.johncrynick.com</link>
     <description>Latest Rockwell Automation vulnerability intelligence from CISA, NVD, and security news</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 17 Jun 2026 20:24:56 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 04:48:39 +0000</lastBuildDate>
   <item>
     <title>Rockwell Automation: Patch for critical vulnerabilities in ICS Controllers - SecNews.gr</title>
     <link>https://intel.johncrynick.com/cve/f4ec0fe9dfad1c154836cc5bfaf44702.html</link>
@@ -109,6 +109,14 @@
     <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
     <category>ROCKWELL</category>
     <guid isPermaLink="true">https://intel.johncrynick.com/cve/6115eb9cbdc22ca72ac628211a7c8dc0.html</guid>
+  </item>
+  <item>
+    <title>Researcher Drops MiniPlasma Windows Exploit for Unpatched 2020 CVE - SecurityWeek</title>
+    <link>https://intel.johncrynick.com/cve/27e16734bbe8609c8819913b40c6ac66.html</link>
+    <description>Researcher Drops MiniPlasma Windows Exploit for Unpatched 2020 CVE  SecurityWeek</description>
+    <pubDate>Mon, 18 May 2026 07:00:00 +0000</pubDate>
+    <category>NEWS</category>
+    <guid isPermaLink="true">https://intel.johncrynick.com/cve/27e16734bbe8609c8819913b40c6ac66.html</guid>
   </item>
   <item>
     <title>Iran-Linked CyberAv3ngers Sets Sights on Water Utilities and Industrial Controllers - CyberSecurityNews</title>
@@ -397,14 +405,6 @@
     <pubDate>Thu, 13 Nov 2025 07:00:00 +0000</pubDate>
     <category>CISA_ICS</category>
     <guid isPermaLink="true">https://intel.johncrynick.com/cve/0e054af55966faebb6df5987fe954676.html</guid>
-  </item>
-  <item>
-    <title>Rockwell Automation Verve Asset Manager</title>
-    <link>https://intel.johncrynick.com/cve/523edc5c1347a2a3e3b8c84bf08f5cba.html</link>
-    <description>Successful exploitation of this vulnerability could result in an attacker accessing or altering user data.</description>
-    <pubDate>Thu, 13 Nov 2025 07:00:00 +0000</pubDate>
-    <category>CISA_ICS</category>
-    <guid isPermaLink="true">https://intel.johncrynick.com/cve/523edc5c1347a2a3e3b8c84bf08f5cba.html</guid>
   </item>
   </channel>
 </rss>

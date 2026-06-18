@@ -5,7 +5,7 @@
     <link>https://intel.johncrynick.com</link>
     <description>Latest Rockwell Automation vulnerability intelligence from CISA, NVD, and security news</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 18 Jun 2026 10:41:37 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 15:44:51 +0000</lastBuildDate>
   <item>
     <title>Rockwell Automation: Patch for critical vulnerabilities in ICS Controllers - SecNews.gr</title>
     <link>https://intel.johncrynick.com/cve/f4ec0fe9dfad1c154836cc5bfaf44702.html</link>
@@ -21,6 +21,14 @@
     <pubDate>Wed, 17 Jun 2026 11:42:11 +0000</pubDate>
     <category>NEWS</category>
     <guid isPermaLink="true">https://intel.johncrynick.com/cve/f02241603d2064a95cccc17aac202feb.html</guid>
+  </item>
+  <item>
+    <title>Rockwell Automation Patches Vulnerabilities in ICS Controllers and Software - SecurityWeek</title>
+    <link>https://intel.johncrynick.com/cve/220d01f3df9bbb1ada0014a4f2d8990e.html</link>
+    <description>Rockwell Automation Patches Vulnerabilities in ICS Controllers and Software  SecurityWeek</description>
+    <pubDate>Wed, 17 Jun 2026 11:32:44 +0000</pubDate>
+    <category>NEWS</category>
+    <guid isPermaLink="true">https://intel.johncrynick.com/cve/220d01f3df9bbb1ada0014a4f2d8990e.html</guid>
   </item>
   <item>
     <title>Rockwell Automation FLEX I/O EtherNet/IP Adapters</title>
@@ -397,14 +405,6 @@
     <pubDate>Thu, 13 Nov 2025 07:00:00 +0000</pubDate>
     <category>CISA_ICS</category>
     <guid isPermaLink="true">https://intel.johncrynick.com/cve/428777aab63a4ef3bc67bd0ba6942438.html</guid>
-  </item>
-  <item>
-    <title>Rockwell Automation Studio 5000 Simulation Interface</title>
-    <link>https://intel.johncrynick.com/cve/0e054af55966faebb6df5987fe954676.html</link>
-    <description>Successful exploitation of these vulnerabilities could allow attackers to trigger outbound SMB requests to capture NTLM hashes and execute scripts with Administrator privileges upon system reboot.</description>
-    <pubDate>Thu, 13 Nov 2025 07:00:00 +0000</pubDate>
-    <category>CISA_ICS</category>
-    <guid isPermaLink="true">https://intel.johncrynick.com/cve/0e054af55966faebb6df5987fe954676.html</guid>
   </item>
   </channel>
 </rss>

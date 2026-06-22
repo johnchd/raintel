@@ -5,7 +5,15 @@
     <link>https://intel.johncrynick.com</link>
     <description>Latest Rockwell Automation vulnerability intelligence from CISA, NVD, and security news</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 22 Jun 2026 12:19:05 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 21:00:32 +0000</lastBuildDate>
+  <item>
+    <title>Attackers Exploit Gravity SMTP Plugin Flaw to Harvest Valuable WordPress Data - SecurityWeek</title>
+    <link>https://intel.johncrynick.com/cve/06847bbaf753392b6ace7f45cc2a015f.html</link>
+    <description>Attackers Exploit Gravity SMTP Plugin Flaw to Harvest Valuable WordPress Data  SecurityWeek</description>
+    <pubDate>Mon, 22 Jun 2026 11:57:54 +0000</pubDate>
+    <category>NEWS</category>
+    <guid isPermaLink="true">https://intel.johncrynick.com/cve/06847bbaf753392b6ace7f45cc2a015f.html</guid>
+  </item>
   <item>
     <title>Splunk Enterprise Vulnerability Exploited in Attacks Days After Disclosure - SecurityWeek</title>
     <link>https://intel.johncrynick.com/cve/67fe71b0022c67251b8c834d69ca5051.html</link>
@@ -397,14 +405,6 @@
     <pubDate>Tue, 25 Nov 2025 07:00:00 +0000</pubDate>
     <category>CISA_ICS</category>
     <guid isPermaLink="true">https://intel.johncrynick.com/cve/15ee1073050f48e54015f5079454ed74.html</guid>
-  </item>
-  <item>
-    <title>SD1763 | Arena® Simulation Stack-Based Buffer Overflow Vulnerability</title>
-    <link>https://intel.johncrynick.com/cve/f7e41a1448e59380ea37ac26928c498b.html</link>
-    <description></description>
-    <pubDate>Fri, 14 Nov 2025 00:00:00 +0000</pubDate>
-    <category>ROCKWELL</category>
-    <guid isPermaLink="true">https://intel.johncrynick.com/cve/f7e41a1448e59380ea37ac26928c498b.html</guid>
   </item>
   </channel>
 </rss>

@@ -5,7 +5,7 @@
     <link>https://intel.johncrynick.com</link>
     <description>Latest Rockwell Automation vulnerability intelligence from CISA, NVD, and security news</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 02 Jul 2026 14:22:47 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 19:43:18 +0000</lastBuildDate>
   <item>
     <title>First-Ever Exploitation of PTC Windchill Vulnerability Discovered in the Wild - SecurityWeek</title>
     <link>https://intel.johncrynick.com/cve/783abf460c1f916af4c22a77f80d5dfb.html</link>
@@ -13,6 +13,14 @@
     <pubDate>Fri, 26 Jun 2026 08:23:19 +0000</pubDate>
     <category>NEWS</category>
     <guid isPermaLink="true">https://intel.johncrynick.com/cve/783abf460c1f916af4c22a77f80d5dfb.html</guid>
+  </item>
+  <item>
+    <title>Lantronix Serial-to-IP Converter Flaw Exploited in Attacks After OT Threat Warning - SecurityWeek</title>
+    <link>https://intel.johncrynick.com/cve/51ff1c35a7a044b3532eb48d362c6115.html</link>
+    <description>Lantronix Serial-to-IP Converter Flaw Exploited in Attacks After OT Threat Warning  SecurityWeek</description>
+    <pubDate>Thu, 25 Jun 2026 11:23:40 +0000</pubDate>
+    <category>NEWS</category>
+    <guid isPermaLink="true">https://intel.johncrynick.com/cve/51ff1c35a7a044b3532eb48d362c6115.html</guid>
   </item>
   <item>
     <title>Attackers Exploit Gravity SMTP Plugin Flaw to Harvest Valuable WordPress Data - SecurityWeek</title>
@@ -397,14 +405,6 @@
     <pubDate>Tue, 09 Dec 2025 00:00:00 +0000</pubDate>
     <category>ROCKWELL</category>
     <guid isPermaLink="true">https://intel.johncrynick.com/cve/fddd3b39f9e63f283a392a5ffbc51fce.html</guid>
-  </item>
-  <item>
-    <title>CISA Warns of OpenPLC ScadaBR File Upload Vulnerability Exploited in Attacks - CyberSecurityNews</title>
-    <link>https://intel.johncrynick.com/cve/c4c9817cfbfa14e391e4d8178d7fdeb1.html</link>
-    <description>CISA Warns of OpenPLC ScadaBR File Upload Vulnerability Exploited in Attacks  CyberSecurityNews</description>
-    <pubDate>Thu, 04 Dec 2025 08:00:00 +0000</pubDate>
-    <category>NEWS</category>
-    <guid isPermaLink="true">https://intel.johncrynick.com/cve/c4c9817cfbfa14e391e4d8178d7fdeb1.html</guid>
   </item>
   </channel>
 </rss>

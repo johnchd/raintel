@@ -5,7 +5,39 @@
     <link>https://intel.johncrynick.com</link>
     <description>Latest Rockwell Automation vulnerability intelligence from CISA, NVD, and security news</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 21 Jul 2026 14:09:34 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 19:43:00 +0000</lastBuildDate>
+  <item>
+    <title>Rockwell Automation Studio 5000 Logix Designer</title>
+    <link>https://intel.johncrynick.com/cve/91e6e33800d93fb55ba326b65b724ad1.html</link>
+    <description>Successful exploitation of these vulnerabilities could allow for a local attacker to execute arbitrary files, alter configurations, or execute arbitrary code.</description>
+    <pubDate>Tue, 21 Jul 2026 06:00:00 +0000</pubDate>
+    <category>CISA_ICS</category>
+    <guid isPermaLink="true">https://intel.johncrynick.com/cve/91e6e33800d93fb55ba326b65b724ad1.html</guid>
+  </item>
+  <item>
+    <title>Rockwell Automation 1734 POINT I/O</title>
+    <link>https://intel.johncrynick.com/cve/66f9c61882b8d5e1122e83416e634818.html</link>
+    <description>Successful exploitation of this vulnerability could allow for an attacker to cause a denial-of-service condition on the product.</description>
+    <pubDate>Tue, 21 Jul 2026 06:00:00 +0000</pubDate>
+    <category>CISA_ICS</category>
+    <guid isPermaLink="true">https://intel.johncrynick.com/cve/66f9c61882b8d5e1122e83416e634818.html</guid>
+  </item>
+  <item>
+    <title>Rockwell Automation 1718-AENTR/1719-AENTR</title>
+    <link>https://intel.johncrynick.com/cve/daf44428df742ec19a12bbf33f411f5b.html</link>
+    <description>Successful exploitation of this vulnerability could allow for an attacker to cause a denial-of-service condition on the product.</description>
+    <pubDate>Tue, 21 Jul 2026 06:00:00 +0000</pubDate>
+    <category>CISA_ICS</category>
+    <guid isPermaLink="true">https://intel.johncrynick.com/cve/daf44428df742ec19a12bbf33f411f5b.html</guid>
+  </item>
+  <item>
+    <title>Rockwell Automation FactoryTalk Services Platform</title>
+    <link>https://intel.johncrynick.com/cve/b9d94bbd8892dedf6970235f7ebf6949.html</link>
+    <description>Successful exploitation of this vulnerability could allow an attacker to impersonate an authorized user on the FTSP server, resulting in unauthorized access to system configurations.</description>
+    <pubDate>Tue, 21 Jul 2026 06:00:00 +0000</pubDate>
+    <category>CISA_ICS</category>
+    <guid isPermaLink="true">https://intel.johncrynick.com/cve/b9d94bbd8892dedf6970235f7ebf6949.html</guid>
+  </item>
   <item>
     <title>Unauthenticated Debug Port in Rockwell Adapter Gives Attackers Plant-Floor Control - Tech Times</title>
     <link>https://intel.johncrynick.com/cve/a9f7568b9905114b64c0e8ec99ed67d7.html</link>
@@ -373,38 +405,6 @@
     <pubDate>Mon, 13 Apr 2026 07:00:00 +0000</pubDate>
     <category>NEWS</category>
     <guid isPermaLink="true">https://intel.johncrynick.com/cve/a91549918f600cd590c49805fdd09f37.html</guid>
-  </item>
-  <item>
-    <title>What to Know About CyberAv3ngers: The IRGC-Linked Group Targeting Critical Infrastructure - Security Boulevard</title>
-    <link>https://intel.johncrynick.com/cve/581d516033e314dd1a582fb0288cd201.html</link>
-    <description>What to Know About CyberAv3ngers: The IRGC-Linked Group Targeting Critical Infrastructure  Security Boulevard</description>
-    <pubDate>Thu, 09 Apr 2026 22:57:44 +0000</pubDate>
-    <category>NEWS</category>
-    <guid isPermaLink="true">https://intel.johncrynick.com/cve/581d516033e314dd1a582fb0288cd201.html</guid>
-  </item>
-  <item>
-    <title>ThreatsDay Bulletin: Hybrid P2P Botnet, 13-Year-Old Apache RCE and 18 More Stories - The Hacker News</title>
-    <link>https://intel.johncrynick.com/cve/782bd9be710dad196565d9036f5efcb6.html</link>
-    <description>ThreatsDay Bulletin: Hybrid P2P Botnet, 13-Year-Old Apache RCE and 18 More Stories  The Hacker News</description>
-    <pubDate>Thu, 09 Apr 2026 07:00:00 +0000</pubDate>
-    <category>NEWS</category>
-    <guid isPermaLink="true">https://intel.johncrynick.com/cve/782bd9be710dad196565d9036f5efcb6.html</guid>
-  </item>
-  <item>
-    <title>Iran-linked hackers target water, energy in US, FBI and CISA warn - Cybersecurity Dive</title>
-    <link>https://intel.johncrynick.com/cve/448935aed32c95c79c7173e613d80ff3.html</link>
-    <description>Iran-linked hackers target water, energy in US, FBI and CISA warn  Cybersecurity Dive</description>
-    <pubDate>Thu, 09 Apr 2026 03:35:32 +0000</pubDate>
-    <category>NEWS</category>
-    <guid isPermaLink="true">https://intel.johncrynick.com/cve/448935aed32c95c79c7173e613d80ff3.html</guid>
-  </item>
-  <item>
-    <title>Juniper, EV Charging &amp; ICS Vulnerabilities Raise Risks - Cyble</title>
-    <link>https://intel.johncrynick.com/cve/3fad56bd256743327f67f99d631a0610.html</link>
-    <description>Juniper, EV Charging &amp; ICS Vulnerabilities Raise Risks  Cyble</description>
-    <pubDate>Fri, 20 Mar 2026 07:00:00 +0000</pubDate>
-    <category>NEWS</category>
-    <guid isPermaLink="true">https://intel.johncrynick.com/cve/3fad56bd256743327f67f99d631a0610.html</guid>
   </item>
   </channel>
 </rss>

@@ -5,7 +5,15 @@
     <link>https://intel.johncrynick.com</link>
     <description>Latest Rockwell Automation vulnerability intelligence from CISA, NVD, and security news</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 26 Jul 2026 03:37:49 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jul 2026 08:38:06 +0000</lastBuildDate>
+  <item>
+    <title>Rockwell Patches Code Execution Flaws in Arena Simulation Software - SecurityWeek</title>
+    <link>https://intel.johncrynick.com/cve/197dd4cbff393aadf80969be1c361e5c.html</link>
+    <description>Rockwell Patches Code Execution Flaws in Arena Simulation Software  SecurityWeek</description>
+    <pubDate>Sat, 25 Jul 2026 08:36:44 +0000</pubDate>
+    <category>NEWS</category>
+    <guid isPermaLink="true">https://intel.johncrynick.com/cve/197dd4cbff393aadf80969be1c361e5c.html</guid>
+  </item>
   <item>
     <title>Rockwell Automation Studio 5000 Logix Designer</title>
     <link>https://intel.johncrynick.com/cve/91e6e33800d93fb55ba326b65b724ad1.html</link>
@@ -397,14 +405,6 @@
     <pubDate>Mon, 18 May 2026 07:00:00 +0000</pubDate>
     <category>NEWS</category>
     <guid isPermaLink="true">https://intel.johncrynick.com/cve/27e16734bbe8609c8819913b40c6ac66.html</guid>
-  </item>
-  <item>
-    <title>Critical Remote Code Execution Vulnerability Patched in Android - SecurityWeek</title>
-    <link>https://intel.johncrynick.com/cve/e3bf2c27b4b9505b9ac954c168bfa8f2.html</link>
-    <description>Critical Remote Code Execution Vulnerability Patched in Android  SecurityWeek</description>
-    <pubDate>Tue, 05 May 2026 07:00:00 +0000</pubDate>
-    <category>NEWS</category>
-    <guid isPermaLink="true">https://intel.johncrynick.com/cve/e3bf2c27b4b9505b9ac954c168bfa8f2.html</guid>
   </item>
   </channel>
 </rss>

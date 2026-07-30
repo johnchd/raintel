@@ -5,7 +5,15 @@
     <link>https://intel.johncrynick.com</link>
     <description>Latest Rockwell Automation vulnerability intelligence from CISA, NVD, and security news</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 30 Jul 2026 14:23:06 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 19:44:20 +0000</lastBuildDate>
+  <item>
+    <title>SD1790 | IMPORTANT NOTICE: Restoring Access to a MicroLogix™ 1400 Controller When the Password Is Unknown</title>
+    <link>https://intel.johncrynick.com/cve/77bec9099c80cbf22ab273837b691df0.html</link>
+    <description></description>
+    <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
+    <category>ROCKWELL</category>
+    <guid isPermaLink="true">https://intel.johncrynick.com/cve/77bec9099c80cbf22ab273837b691df0.html</guid>
+  </item>
   <item>
     <title>Iranian Hackers Exploited Unpatchable PLC Flaw to Breach 30 Minnesota Water Systems - Tech Times</title>
     <link>https://intel.johncrynick.com/cve/5978cdcc4e17017367f0e08d675d44f6.html</link>
@@ -397,14 +405,6 @@
     <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
     <category>ROCKWELL</category>
     <guid isPermaLink="true">https://intel.johncrynick.com/cve/b68a27b829716e118c629d4a15abeb93.html</guid>
-  </item>
-  <item>
-    <title>SD1772 | Logix 5370 and 5570 Controllers Vulnerable To Denial of Service Via CIP</title>
-    <link>https://intel.johncrynick.com/cve/6115eb9cbdc22ca72ac628211a7c8dc0.html</link>
-    <description></description>
-    <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
-    <category>ROCKWELL</category>
-    <guid isPermaLink="true">https://intel.johncrynick.com/cve/6115eb9cbdc22ca72ac628211a7c8dc0.html</guid>
   </item>
   </channel>
 </rss>

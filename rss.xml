@@ -5,7 +5,15 @@
     <link>https://intel.johncrynick.com</link>
     <description>Latest Rockwell Automation vulnerability intelligence from CISA, NVD, and security news</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 19 Aug 2026 18:44:41 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 01:40:06 +0000</lastBuildDate>
+  <item>
+    <title>SD1791 | OTTO® Fleet Manager – Weak Password Hashing Configuration</title>
+    <link>https://intel.johncrynick.com/cve/0a702309e5214c53202ca8820b53e1e5.html</link>
+    <description></description>
+    <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
+    <category>ROCKWELL</category>
+    <guid isPermaLink="true">https://intel.johncrynick.com/cve/0a702309e5214c53202ca8820b53e1e5.html</guid>
+  </item>
   <item>
     <title>Over 4,400 Rockwell PLCs Exposed Online, 22 Found in Water Attack Cities - The Hacker News</title>
     <link>https://intel.johncrynick.com/cve/5e3a6e7387f4adb63a10c936183526fe.html</link>
@@ -45,6 +53,14 @@
     <pubDate>Wed, 29 Jul 2026 05:48:45 +0000</pubDate>
     <category>NEWS</category>
     <guid isPermaLink="true">https://intel.johncrynick.com/cve/0958dabca24d80f876e4b28c50c3473e.html</guid>
+  </item>
+  <item>
+    <title>Iranian Hackers Exploit Rockwell, Schneider and Siemens PLCs Across U.S. Critical Infrastructure - gbhackers.com</title>
+    <link>https://intel.johncrynick.com/cve/05b9389a6b0f3212b4ee624f24d387e2.html</link>
+    <description>Iranian Hackers Exploit Rockwell, Schneider and Siemens PLCs Across U.S. Critical Infrastructure  gbhackers.com</description>
+    <pubDate>Mon, 27 Jul 2026 07:00:00 +0000</pubDate>
+    <category>NEWS</category>
+    <guid isPermaLink="true">https://intel.johncrynick.com/cve/05b9389a6b0f3212b4ee624f24d387e2.html</guid>
   </item>
   <item>
     <title>Rockwell Patches Code Execution Flaws in Arena Simulation Software - SecurityWeek</title>
@@ -389,22 +405,6 @@
     <pubDate>Tue, 16 Jun 2026 06:00:00 +0000</pubDate>
     <category>CISA_ICS</category>
     <guid isPermaLink="true">https://intel.johncrynick.com/cve/b47343a25d403dc12fb6d7dd0355decb.html</guid>
-  </item>
-  <item>
-    <title>SD1775 | FLEX I/O Dual-port EtherNet/IP Adapters – Multiple Vulnerabilities</title>
-    <link>https://intel.johncrynick.com/cve/03f5a7ae96068d485806ca6157b56f18.html</link>
-    <description></description>
-    <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
-    <category>ROCKWELL</category>
-    <guid isPermaLink="true">https://intel.johncrynick.com/cve/03f5a7ae96068d485806ca6157b56f18.html</guid>
-  </item>
-  <item>
-    <title>SD1774 | RSLinx Classic Third-Party Vulnerability CVE-2020-13573</title>
-    <link>https://intel.johncrynick.com/cve/95c7853229b5a3b527ed3e3c4f16cfdb.html</link>
-    <description></description>
-    <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
-    <category>ROCKWELL</category>
-    <guid isPermaLink="true">https://intel.johncrynick.com/cve/95c7853229b5a3b527ed3e3c4f16cfdb.html</guid>
   </item>
   </channel>
 </rss>

@@ -538,11 +538,6 @@ footer {
 <div class="stats-grid">
   
   <div class="stat-box">
-    <div class="stat-label">Last 72h</div>
-    <div class="stat-value">1</div>
-    <span class="stat-severity sev-medium">medium</span>
-  </div>
-  <div class="stat-box">
     <div class="stat-label">Last 7 days</div>
     <div class="stat-value">1</div>
     <span class="stat-severity sev-medium">medium</span>
@@ -554,7 +549,7 @@ footer {
   </div>
 </div>
 <div class="source-breakdown"><strong style="color:var(--text)">Last 30 days by source</strong> &nbsp;&nbsp; CISA KEV: <span>0</span> &nbsp;|&nbsp; CISA ICS: <span>1</span> &nbsp;|&nbsp; NVD: <span>0</span> &nbsp;|&nbsp; RA Advisories: <span>2</span> &nbsp;|&nbsp; News: <span>7</span></div>
-<p style="margin-bottom:8px"><span id="latestCount">1</span> findings</p><div class="filter-bar" id="latestFilter"><button class="filter-btn active" data-filter="all">All</button><button class="filter-btn" data-filter="ROCKWELL">RA Advisories</button></div>
+<p style="color:var(--text-muted);font-size:13px;margin-bottom:16px">No new intelligence in the last 72 hours — showing last 30 days.</p><p style="margin-bottom:8px"><span id="latestCount">10</span> findings</p><div class="filter-bar" id="latestFilter"><button class="filter-btn active" data-filter="all">All</button><button class="filter-btn" data-filter="CISA_ICS">CISA ICS</button><button class="filter-btn" data-filter="NEWS">News</button><button class="filter-btn" data-filter="ROCKWELL">RA Advisories</button></div>
 <div class="finding-card" data-source="ROCKWELL" data-products="OTTO® Fleet Manager" data-severity="Medium" data-published="1787097600000">
   <div class="card-header">
     <div class="card-title"><a href="https://www.rockwellautomation.com/en-us/trust-center/security-advisories/advisory.SD1791.html" target="_blank" rel="noopener">SD1791 | OTTO® Fleet Manager – Weak Password Hashing Configuration</a></div>
@@ -571,9 +566,153 @@ footer {
     <a href="https://www.rockwellautomation.com/en-us/trust-center/security-advisories/advisory.SD1791.html" target="_blank" rel="noopener">Source</a>
   </div>
 </div>
+<div class="finding-card" data-source="NEWS" data-products="" data-severity="Unknown" data-published="1786018560000">
+  <div class="card-header">
+    <div class="card-title"><a href="https://news.google.com/rss/articles/CBMigwFBVV95cUxOR3Y2aEswdTctSkwzVjBva2hGSmVaY2VXbVY0QmhrTTFuTWc5Y2E2ZWlWM3dNSDN4RFRhUHpHQjNhaHhFZXVjQUlmZzlMc3QxdmNRTlJNN1BnY1J5Wk1PNWVUSjFMeUljM2QyX0NGTkYzdTJuaF9iaFgySG90WkRMVWxLTQ?oc=5" target="_blank" rel="noopener">Over 4,400 Rockwell PLCs Exposed Online, 22 Found in Water Attack Cities - The Hacker News</a></div>
+    
+    <span class="source-tag">News</span>
+  </div>
+  <div class="card-body">
+    <div class="card-meta"><span>8-6-2026</span></div>
+    
+    <div class="card-summary">Over 4,400 Rockwell PLCs Exposed Online, 22 Found in Water Attack Cities  The Hacker News</div>
+  </div>
+  <div class="card-footer">
+    <a href="cve/5e3a6e7387f4adb63a10c936183526fe.html">Details</a>
+    <a href="https://news.google.com/rss/articles/CBMigwFBVV95cUxOR3Y2aEswdTctSkwzVjBva2hGSmVaY2VXbVY0QmhrTTFuTWc5Y2E2ZWlWM3dNSDN4RFRhUHpHQjNhaHhFZXVjQUlmZzlMc3QxdmNRTlJNN1BnY1J5Wk1PNWVUSjFMeUljM2QyX0NGTkYzdTJuaF9iaFgySG90WkRMVWxLTQ?oc=5" target="_blank" rel="noopener">Source</a>
+  </div>
+</div>
+<div class="finding-card" data-source="CISA_ICS" data-products="GuardLogix 5580,ControlLogix 5580,1756-EN4TR,Compact GuardLogix 5380,CompactLogix 5380" data-severity="Medium" data-published="1785391200000">
+  <div class="card-header">
+    <div class="card-title"><a href="https://www.cisa.gov/news-events/ics-advisories/icsa-26-211-05" target="_blank" rel="noopener">Rockwell Automation CompactLogix 5380 ControlLogix 5580 / 1756-EN4TR Communications Module</a></div>
+    <span class="severity-badge sev-medium">Medium</span>
+    <span class="source-tag">CISA ICS</span>
+  </div>
+  <div class="card-body">
+    <div class="card-meta"><span>7-30-2026</span><span>GuardLogix 5580, ControlLogix 5580, 1756-EN4TR, Compact GuardLogix 5380, CompactLogix 5380</span></div>
+    <div style="margin-bottom:8px"><span class="cve-pill">CVE-2026-9636</span> </div>
+    <div class="card-summary">Successful exploitation of this vulnerability could allow an attacker to cause a denial-of-service condition.</div>
+  </div>
+  <div class="card-footer">
+    <a href="cve/dbc317f1225ae4f68a33c755d3b9f3b2.html">Details</a>
+    <a href="https://www.cisa.gov/news-events/ics-advisories/icsa-26-211-05" target="_blank" rel="noopener">Source</a>
+  </div>
+</div>
+<div class="finding-card" data-source="ROCKWELL" data-products="MicroLogix 1400" data-severity="Unknown" data-published="1785369600000">
+  <div class="card-header">
+    <div class="card-title"><a href="https://www.rockwellautomation.com/en-us/trust-center/security-advisories/advisory.SD1790.html" target="_blank" rel="noopener">SD1790 | IMPORTANT NOTICE: Restoring Access to a MicroLogix™ 1400 Controller When the Password Is Unknown</a></div>
+    
+    <span class="source-tag">RA Advisories</span>
+  </div>
+  <div class="card-body">
+    <div class="card-meta"><span>7-30-2026</span><span>MicroLogix 1400</span></div>
+    
+    <div class="card-summary"></div>
+  </div>
+  <div class="card-footer">
+    <a href="cve/77bec9099c80cbf22ab273837b691df0.html">Details</a>
+    <a href="https://www.rockwellautomation.com/en-us/trust-center/security-advisories/advisory.SD1790.html" target="_blank" rel="noopener">Source</a>
+  </div>
+</div>
+<div class="finding-card" data-source="NEWS" data-products="" data-severity="Unknown" data-published="1785345820000">
+  <div class="card-header">
+    <div class="card-title"><a href="https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQTlITV9pWXVSdWF6WVdDSDA2ZmVUd0o5UnlQSUJ3cFZNREtJaU42RFR5dnIwZEJMcmg0THZ4bHV3UkVTUlhxajVaQ2tsVWFvbHFHeWFqSzF2Y01tMy13RTM3X1J5RkpEalB0aUN4eDJRcUhNaHRrQ1VtbDVDRXdHd0hSUUZyTlpBOHlSVFJJbXhGQlRhbWpHbnhPUnhfNmZzZmJsMHVWaDkwRWt2TkpkbVV4LVpMckZ2bGpuOXQ2bWJvQkNXQkZEYXhjZkx6R2Z6?oc=5" target="_blank" rel="noopener">Iranian Hackers Exploited Unpatchable PLC Flaw to Breach 30 Minnesota Water Systems - Tech Times</a></div>
+    
+    <span class="source-tag">News</span>
+  </div>
+  <div class="card-body">
+    <div class="card-meta"><span>7-29-2026</span></div>
+    
+    <div class="card-summary">Iranian Hackers Exploited Unpatchable PLC Flaw to Breach 30 Minnesota Water Systems  Tech Times</div>
+  </div>
+  <div class="card-footer">
+    <a href="cve/5978cdcc4e17017367f0e08d675d44f6.html">Details</a>
+    <a href="https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQTlITV9pWXVSdWF6WVdDSDA2ZmVUd0o5UnlQSUJ3cFZNREtJaU42RFR5dnIwZEJMcmg0THZ4bHV3UkVTUlhxajVaQ2tsVWFvbHFHeWFqSzF2Y01tMy13RTM3X1J5RkpEalB0aUN4eDJRcUhNaHRrQ1VtbDVDRXdHd0hSUUZyTlpBOHlSVFJJbXhGQlRhbWpHbnhPUnhfNmZzZmJsMHVWaDkwRWt2TkpkbVV4LVpMckZ2bGpuOXQ2bWJvQkNXQkZEYXhjZkx6R2Z6?oc=5" target="_blank" rel="noopener">Source</a>
+  </div>
+</div>
+<div class="finding-card" data-source="NEWS" data-products="" data-severity="Unknown" data-published="1785304125000">
+  <div class="card-header">
+    <div class="card-title"><a href="https://news.google.com/rss/articles/CBMiswFBVV95cUxQVlE5dV95SEt4YmRxSTZPazZ1ODgzSU0wS25VbHFZZkhuOFNEV2ptNDU3bmQ4LXdsX2dfNjhVVlZ2eFRSWDY5TGw5bmhtb2tFNDIzbF9KQUZhVjRxRnpoVDIxaHpGNHJpaTRIc0RpZUpYek9nMTFqeU1yem44c29wczU4c1p0NkFfb1hqdUc1NlhjMWZBblNFaXRFU2R3RlVpeEF4aC1EZXFKTlZOTFdwSWtUQQ?oc=5" target="_blank" rel="noopener">Coordinated “cyberattack” on Minnesota water utilities: What you need to know - Security Boulevard</a></div>
+    
+    <span class="source-tag">News</span>
+  </div>
+  <div class="card-body">
+    <div class="card-meta"><span>7-29-2026</span></div>
+    
+    <div class="card-summary">Coordinated “cyberattack” on Minnesota water utilities: What you need to know  Security Boulevard</div>
+  </div>
+  <div class="card-footer">
+    <a href="cve/0958dabca24d80f876e4b28c50c3473e.html">Details</a>
+    <a href="https://news.google.com/rss/articles/CBMiswFBVV95cUxQVlE5dV95SEt4YmRxSTZPazZ1ODgzSU0wS25VbHFZZkhuOFNEV2ptNDU3bmQ4LXdsX2dfNjhVVlZ2eFRSWDY5TGw5bmhtb2tFNDIzbF9KQUZhVjRxRnpoVDIxaHpGNHJpaTRIc0RpZUpYek9nMTFqeU1yem44c29wczU4c1p0NkFfb1hqdUc1NlhjMWZBblNFaXRFU2R3RlVpeEF4aC1EZXFKTlZOTFdwSWtUQQ?oc=5" target="_blank" rel="noopener">Source</a>
+  </div>
+</div>
+<div class="finding-card" data-source="NEWS" data-products="" data-severity="Unknown" data-published="1785135600000">
+  <div class="card-header">
+    <div class="card-title"><a href="https://news.google.com/rss/articles/CBMiZkFVX3lxTE5pYW9qbUpEakFRcHcxODV0aHc3UXlxXzYtSEthSlljSS1EWURXMl9USFBXWGJMc25RUERoUElqOVlXeVZ1dDdZaGl0R1kxTjN5ay1qWHdTQWZPQW15dV94bWxUYWxrd9IBa0FVX3lxTE9PRmVDSTBUTHN3c3Q4b05SYzVoWUtrd2tkdzlqSWhxeWk3Y0htLU9hdm5FRHVNYmpOS3BuUjZVSTBiWDBDX0J0Zkp5WjJ6VDFoaVpwUFFpaEdacG9GSXprTXVKZXhOdE84cm9Z?oc=5" target="_blank" rel="noopener">Iranian Hackers Exploit Rockwell, Schneider and Siemens PLCs Across U.S. Critical Infrastructure - gbhackers.com</a></div>
+    
+    <span class="source-tag">News</span>
+  </div>
+  <div class="card-body">
+    <div class="card-meta"><span>7-27-2026</span></div>
+    
+    <div class="card-summary">Iranian Hackers Exploit Rockwell, Schneider and Siemens PLCs Across U.S. Critical Infrastructure  gbhackers.com</div>
+  </div>
+  <div class="card-footer">
+    <a href="cve/05b9389a6b0f3212b4ee624f24d387e2.html">Details</a>
+    <a href="https://news.google.com/rss/articles/CBMiZkFVX3lxTE5pYW9qbUpEakFRcHcxODV0aHc3UXlxXzYtSEthSlljSS1EWURXMl9USFBXWGJMc25RUERoUElqOVlXeVZ1dDdZaGl0R1kxTjN5ay1qWHdTQWZPQW15dV94bWxUYWxrd9IBa0FVX3lxTE9PRmVDSTBUTHN3c3Q4b05SYzVoWUtrd2tkdzlqSWhxeWk3Y0htLU9hdm5FRHVNYmpOS3BuUjZVSTBiWDBDX0J0Zkp5WjJ6VDFoaVpwUFFpaEdacG9GSXprTXVKZXhOdE84cm9Z?oc=5" target="_blank" rel="noopener">Source</a>
+  </div>
+</div>
+<div class="finding-card" data-source="NEWS" data-products="" data-severity="Unknown" data-published="1784968604000">
+  <div class="card-header">
+    <div class="card-title"><a href="https://news.google.com/rss/articles/CBMiogFBVV95cUxOb2pla0JxOGdnN2VHS21JODRUN2RQSVRHSWlsMFBoX2RkNlpId3ZDMTFMQXlxcFhIUFYzUDhHdkxXcUVJeVh5ZHU4UFRLZDFteVpwLVVveVlNaVRhWDdlX2loaEhMcm14Um5jWDNiUVlKREoxZ1ZxR2F3YmtsaGI4WUdTdGFyQ0ZmelNCTDY2b04yNnhETmN3SGE1ckZmQ3BtU2fSAaIBQVVfeXFMTm9qZWtCcThnZzdlR0ttSTg0VDdkUElUR0lpbDBQaF9kZDZaSHd2QzExTEF5cXBYSFBWM1A4R3ZMV3FFSXlYeWR1OFBUS2QxbXlacC1Vb3lZTWlUYVg3ZV9paGhITHJteFJuY1gzYlFZSkRKMWdWcUdhd2JrbGhiOFlHU3RhckNGZnpTQkw2Nm9OMjZ4RE5jd0hhNXJGZkNwbVNn?oc=5" target="_blank" rel="noopener">Rockwell Patches Code Execution Flaws in Arena Simulation Software - SecurityWeek</a></div>
+    
+    <span class="source-tag">News</span>
+  </div>
+  <div class="card-body">
+    <div class="card-meta"><span>7-25-2026</span></div>
+    
+    <div class="card-summary">Rockwell Patches Code Execution Flaws in Arena Simulation Software  SecurityWeek</div>
+  </div>
+  <div class="card-footer">
+    <a href="cve/197dd4cbff393aadf80969be1c361e5c.html">Details</a>
+    <a href="https://news.google.com/rss/articles/CBMiogFBVV95cUxOb2pla0JxOGdnN2VHS21JODRUN2RQSVRHSWlsMFBoX2RkNlpId3ZDMTFMQXlxcFhIUFYzUDhHdkxXcUVJeVh5ZHU4UFRLZDFteVpwLVVveVlNaVRhWDdlX2loaEhMcm14Um5jWDNiUVlKREoxZ1ZxR2F3YmtsaGI4WUdTdGFyQ0ZmelNCTDY2b04yNnhETmN3SGE1ckZmQ3BtU2fSAaIBQVVfeXFMTm9qZWtCcThnZzdlR0ttSTg0VDdkUElUR0lpbDBQaF9kZDZaSHd2QzExTEF5cXBYSFBWM1A4R3ZMV3FFSXlYeWR1OFBUS2QxbXlacC1Vb3lZTWlUYVg3ZV9paGhITHJteFJuY1gzYlFZSkRKMWdWcUdhd2JrbGhiOFlHU3RhckNGZnpTQkw2Nm9OMjZ4RE5jd0hhNXJGZkNwbVNn?oc=5" target="_blank" rel="noopener">Source</a>
+  </div>
+</div>
+<div class="finding-card" data-source="NEWS" data-products="" data-severity="Unknown" data-published="1784968200000">
+  <div class="card-header">
+    <div class="card-title"><a href="https://news.google.com/rss/articles/CBMinAFBVV95cUxOV0E4MFpGbk9sUHBfdmpqckZMd00zcEVfZXVWbzdSYnd0YWFVRHpOWlFpZkNlVDZhbFZYWjU3ZkR4R1ExcnIwZE10RlQ3Y1ZTSGI4cGFNVU5fX1pWLUNqM2dqNVh6YUFuVlh6UEtydUJVelF4ZkM5TTlSUU5yaHdEd3Y1NG5kazhBRTRmc0pXYTFjMkZfSUxwXzlDOW3SAaIBQVVfeXFMTm9qZWtCcThnZzdlR0ttSTg0VDdkUElUR0lpbDBQaF9kZDZaSHd2QzExTEF5cXBYSFBWM1A4R3ZMV3FFSXlYeWR1OFBUS2QxbXlacC1Vb3lZTWlUYVg3ZV9paGhITHJteFJuY1gzYlFZSkRKMWdWcUdhd2JrbGhiOFlHU3RhckNGZnpTQkw2Nm9OMjZ4RE5jd0hhNXJGZkNwbVNn?oc=5" target="_blank" rel="noopener">Rockwell Patches Code Execution Flaws in Arena Simulation Software - SecurityWeek</a></div>
+    
+    <span class="source-tag">News</span>
+  </div>
+  <div class="card-body">
+    <div class="card-meta"><span>7-25-2026</span></div>
+    
+    <div class="card-summary">Rockwell Patches Code Execution Flaws in Arena Simulation Software  SecurityWeek</div>
+  </div>
+  <div class="card-footer">
+    <a href="cve/03395e637d390158098c2e8c448808de.html">Details</a>
+    <a href="https://news.google.com/rss/articles/CBMinAFBVV95cUxOV0E4MFpGbk9sUHBfdmpqckZMd00zcEVfZXVWbzdSYnd0YWFVRHpOWlFpZkNlVDZhbFZYWjU3ZkR4R1ExcnIwZE10RlQ3Y1ZTSGI4cGFNVU5fX1pWLUNqM2dqNVh6YUFuVlh6UEtydUJVelF4ZkM5TTlSUU5yaHdEd3Y1NG5kazhBRTRmc0pXYTFjMkZfSUxwXzlDOW3SAaIBQVVfeXFMTm9qZWtCcThnZzdlR0ttSTg0VDdkUElUR0lpbDBQaF9kZDZaSHd2QzExTEF5cXBYSFBWM1A4R3ZMV3FFSXlYeWR1OFBUS2QxbXlacC1Vb3lZTWlUYVg3ZV9paGhITHJteFJuY1gzYlFZSkRKMWdWcUdhd2JrbGhiOFlHU3RhckNGZnpTQkw2Nm9OMjZ4RE5jd0hhNXJGZkNwbVNn?oc=5" target="_blank" rel="noopener">Source</a>
+  </div>
+</div>
+<div class="finding-card" data-source="NEWS" data-products="" data-severity="Unknown" data-published="1784790000000">
+  <div class="card-header">
+    <div class="card-title"><a href="https://news.google.com/rss/articles/CBMikgFBVV95cUxNaEEwcVlEVFQ2dUF2T2RTQmdWTDFkcGNUR3ZHWkxTWkJtLUIzb3Z5TndiRFRNVnppNFpJVjF3aVdQcl9UNU5ZQjNvUUp5b1FxTmJOMDRvQmZGeVEzdVBqQ3hFWTk3Y1JxV1BTRzNfNjg2T0ZOd0hYaEVYMjJLWnNDRmtFRk1XMlhTS0pvczVqZ0t1dw?oc=5" target="_blank" rel="noopener">CISA, FBI warn that Iran-linked hackers are expanding target set for water, energy - Cybersecurity Dive</a></div>
+    
+    <span class="source-tag">News</span>
+  </div>
+  <div class="card-body">
+    <div class="card-meta"><span>7-23-2026</span></div>
+    
+    <div class="card-summary">CISA, FBI warn that Iran-linked hackers are expanding target set for water, energy  Cybersecurity Dive</div>
+  </div>
+  <div class="card-footer">
+    <a href="cve/6ade3ea022c54a07ef2ec333931a6014.html">Details</a>
+    <a href="https://news.google.com/rss/articles/CBMikgFBVV95cUxNaEEwcVlEVFQ2dUF2T2RTQmdWTDFkcGNUR3ZHWkxTWkJtLUIzb3Z5TndiRFRNVnppNFpJVjF3aVdQcl9UNU5ZQjNvUUp5b1FxTmJOMDRvQmZGeVEzdVBqQ3hFWTk3Y1JxV1BTRzNfNjg2T0ZOd0hYaEVYMjJLWnNDRmtFRk1XMlhTS0pvczVqZ0t1dw?oc=5" target="_blank" rel="noopener">Source</a>
+  </div>
+</div>
 </main>
 <footer>
-  Last updated: 2026-08-21 18:48 UTC &nbsp;|&nbsp; <a href="rss.xml">RSS Feed</a>
+  Last updated: 2026-08-22 01:43 UTC &nbsp;|&nbsp; <a href="rss.xml">RSS Feed</a>
 </footer>
 
 <script>

@@ -538,11 +538,6 @@ footer {
 <div class="stats-grid">
   
   <div class="stat-box">
-    <div class="stat-label">Last 72h</div>
-    <div class="stat-value">1</div>
-    <span class="stat-severity sev-medium">medium</span>
-  </div>
-  <div class="stat-box">
     <div class="stat-label">Last 7 days</div>
     <div class="stat-value">1</div>
     <span class="stat-severity sev-medium">medium</span>
@@ -554,7 +549,7 @@ footer {
   </div>
 </div>
 <div class="source-breakdown"><strong style="color:var(--text)">Last 30 days by source</strong> &nbsp;&nbsp; CISA KEV: <span>0</span> &nbsp;|&nbsp; CISA ICS: <span>1</span> &nbsp;|&nbsp; NVD: <span>0</span> &nbsp;|&nbsp; RA Advisories: <span>1</span> &nbsp;|&nbsp; News: <span>1</span></div>
-<p style="margin-bottom:8px"><span id="latestCount">1</span> findings</p><div class="filter-bar" id="latestFilter"><button class="filter-btn active" data-filter="all">All</button><button class="filter-btn" data-filter="CISA_ICS">CISA ICS</button></div>
+<p style="color:var(--text-muted);font-size:13px;margin-bottom:16px">No new intelligence in the last 72 hours — showing last 30 days.</p><p style="margin-bottom:8px"><span id="latestCount">3</span> findings</p><div class="filter-bar" id="latestFilter"><button class="filter-btn active" data-filter="all">All</button><button class="filter-btn" data-filter="CISA_ICS">CISA ICS</button><button class="filter-btn" data-filter="NEWS">News</button><button class="filter-btn" data-filter="ROCKWELL">RA Advisories</button></div>
 <div class="finding-card" data-source="CISA_ICS" data-products="OTTO Fleet Manager" data-severity="Medium" data-published="1787810400000">
   <div class="card-header">
     <div class="card-title"><a href="https://www.cisa.gov/news-events/ics-advisories/icsa-26-239-03" target="_blank" rel="noopener">Rockwell Automation OTTO Fleet Manager</a></div>
@@ -571,9 +566,41 @@ footer {
     <a href="https://www.cisa.gov/news-events/ics-advisories/icsa-26-239-03" target="_blank" rel="noopener">Source</a>
   </div>
 </div>
+<div class="finding-card" data-source="ROCKWELL" data-products="OTTO® Fleet Manager" data-severity="Medium" data-published="1787097600000">
+  <div class="card-header">
+    <div class="card-title"><a href="https://www.rockwellautomation.com/en-us/trust-center/security-advisories/advisory.SD1791.html" target="_blank" rel="noopener">SD1791 | OTTO® Fleet Manager – Weak Password Hashing Configuration</a></div>
+    <span class="severity-badge sev-medium">Medium</span>
+    <span class="source-tag">RA Advisories</span>
+  </div>
+  <div class="card-body">
+    <div class="card-meta"><span>8-19-2026</span><span>OTTO® Fleet Manager</span></div>
+    <div style="margin-bottom:8px"><span class="cve-pill">CVE-2026-75112</span> </div>
+    <div class="card-summary"></div>
+  </div>
+  <div class="card-footer">
+    <a href="cve/0a702309e5214c53202ca8820b53e1e5.html">Details</a>
+    <a href="https://www.rockwellautomation.com/en-us/trust-center/security-advisories/advisory.SD1791.html" target="_blank" rel="noopener">Source</a>
+  </div>
+</div>
+<div class="finding-card" data-source="NEWS" data-products="" data-severity="Unknown" data-published="1786018560000">
+  <div class="card-header">
+    <div class="card-title"><a href="https://news.google.com/rss/articles/CBMigwFBVV95cUxOR3Y2aEswdTctSkwzVjBva2hGSmVaY2VXbVY0QmhrTTFuTWc5Y2E2ZWlWM3dNSDN4RFRhUHpHQjNhaHhFZXVjQUlmZzlMc3QxdmNRTlJNN1BnY1J5Wk1PNWVUSjFMeUljM2QyX0NGTkYzdTJuaF9iaFgySG90WkRMVWxLTQ?oc=5" target="_blank" rel="noopener">Over 4,400 Rockwell PLCs Exposed Online, 22 Found in Water Attack Cities - The Hacker News</a></div>
+    
+    <span class="source-tag">News</span>
+  </div>
+  <div class="card-body">
+    <div class="card-meta"><span>8-6-2026</span></div>
+    
+    <div class="card-summary">Over 4,400 Rockwell PLCs Exposed Online, 22 Found in Water Attack Cities  The Hacker News</div>
+  </div>
+  <div class="card-footer">
+    <a href="cve/5e3a6e7387f4adb63a10c936183526fe.html">Details</a>
+    <a href="https://news.google.com/rss/articles/CBMigwFBVV95cUxOR3Y2aEswdTctSkwzVjBva2hGSmVaY2VXbVY0QmhrTTFuTWc5Y2E2ZWlWM3dNSDN4RFRhUHpHQjNhaHhFZXVjQUlmZzlMc3QxdmNRTlJNN1BnY1J5Wk1PNWVUSjFMeUljM2QyX0NGTkYzdTJuaF9iaFgySG90WkRMVWxLTQ?oc=5" target="_blank" rel="noopener">Source</a>
+  </div>
+</div>
 </main>
 <footer>
-  Last updated: 2026-08-30 04:58 UTC &nbsp;|&nbsp; <a href="rss.xml">RSS Feed</a>
+  Last updated: 2026-08-30 11:44 UTC &nbsp;|&nbsp; <a href="rss.xml">RSS Feed</a>
 </footer>
 
 <script>

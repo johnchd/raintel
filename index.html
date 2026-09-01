@@ -539,22 +539,118 @@ footer {
   
   <div class="stat-box">
     <div class="stat-label">Last 72h</div>
-    <div class="stat-value">9</div>
+    <div class="stat-value">15</div>
     <span class="stat-severity sev-high">high</span>
   </div>
   <div class="stat-box">
     <div class="stat-label">Last 7 days</div>
-    <div class="stat-value">10</div>
+    <div class="stat-value">16</div>
     <span class="stat-severity sev-high">high</span>
   </div>
   <div class="stat-box">
     <div class="stat-label">Last 30 days</div>
-    <div class="stat-value">12</div>
+    <div class="stat-value">18</div>
     <span class="stat-severity sev-high">high</span>
   </div>
 </div>
-<div class="source-breakdown"><strong style="color:var(--text)">Last 30 days by source</strong> &nbsp;&nbsp; CISA KEV: <span>0</span> &nbsp;|&nbsp; CISA ICS: <span>1</span> &nbsp;|&nbsp; NVD: <span>0</span> &nbsp;|&nbsp; RA Advisories: <span>10</span> &nbsp;|&nbsp; News: <span>1</span></div>
-<p style="margin-bottom:8px"><span id="latestCount">9</span> findings</p><div class="filter-bar" id="latestFilter"><button class="filter-btn active" data-filter="all">All</button><button class="filter-btn" data-filter="ROCKWELL">RA Advisories</button></div>
+<div class="source-breakdown"><strong style="color:var(--text)">Last 30 days by source</strong> &nbsp;&nbsp; CISA KEV: <span>0</span> &nbsp;|&nbsp; CISA ICS: <span>7</span> &nbsp;|&nbsp; NVD: <span>0</span> &nbsp;|&nbsp; RA Advisories: <span>10</span> &nbsp;|&nbsp; News: <span>1</span></div>
+<p style="margin-bottom:8px"><span id="latestCount">15</span> findings</p><div class="filter-bar" id="latestFilter"><button class="filter-btn active" data-filter="all">All</button><button class="filter-btn" data-filter="CISA_ICS">CISA ICS</button><button class="filter-btn" data-filter="ROCKWELL">RA Advisories</button></div>
+<div class="finding-card" data-source="CISA_ICS" data-products="Series C,Series B" data-severity="High" data-published="1788242400000">
+  <div class="card-header">
+    <div class="card-title"><a href="https://www.cisa.gov/news-events/ics-advisories/icsa-26-244-06" target="_blank" rel="noopener">Rockwell Automation Historian ME</a></div>
+    <span class="severity-badge sev-high">High</span>
+    <span class="source-tag">CISA ICS</span>
+  </div>
+  <div class="card-body">
+    <div class="card-meta"><span>9-1-2026</span><span>Series C, Series B</span></div>
+    <div style="margin-bottom:8px"><span class="cve-pill">CVE-2025-12768</span> <span class="cve-pill">CVE-2026-12661</span> </div>
+    <div class="card-summary">Successful exploitation of these vulnerabilities could crash the device being accessed; an out-of-bounds write condition may allow remote code execution.</div>
+  </div>
+  <div class="card-footer">
+    <a href="cve/e7d16ff606971a9b22743987b4876ae7.html">Details</a>
+    <a href="https://www.cisa.gov/news-events/ics-advisories/icsa-26-244-06" target="_blank" rel="noopener">Source</a>
+  </div>
+</div>
+<div class="finding-card" data-source="CISA_ICS" data-products="CompactLogix 5480,CompactLogix 5380,GuardLogix 5580,Compact GuardLogix 5380,ControlLogix 5580" data-severity="High" data-published="1788242400000">
+  <div class="card-header">
+    <div class="card-title"><a href="https://www.cisa.gov/news-events/ics-advisories/icsa-26-244-05" target="_blank" rel="noopener">Rockwell Automation ControlLogix, CompactLogix, CompactLogix 5480, GuardLogix, Compact GuardLogix</a></div>
+    <span class="severity-badge sev-high">High</span>
+    <span class="source-tag">CISA ICS</span>
+  </div>
+  <div class="card-body">
+    <div class="card-meta"><span>9-1-2026</span><span>CompactLogix 5480, CompactLogix 5380, GuardLogix 5580, Compact GuardLogix 5380, ControlLogix 5580</span></div>
+    <div style="margin-bottom:8px"><span class="cve-pill">CVE-2021-42260</span> </div>
+    <div class="card-summary">CISA recommends users take defensive measures to minimize the risk of exploitation of these vulnerabilities.</div>
+  </div>
+  <div class="card-footer">
+    <a href="cve/9dc6728eb231b976e5f71a4568c890df.html">Details</a>
+    <a href="https://www.cisa.gov/news-events/ics-advisories/icsa-26-244-05" target="_blank" rel="noopener">Source</a>
+  </div>
+</div>
+<div class="finding-card" data-source="CISA_ICS" data-products="FactoryTalk Activation Manager" data-severity="High" data-published="1788242400000">
+  <div class="card-header">
+    <div class="card-title"><a href="https://www.cisa.gov/news-events/ics-advisories/icsa-26-244-04" target="_blank" rel="noopener">Rockwell Automation FactoryTalk Activation Manager</a></div>
+    <span class="severity-badge sev-high">High</span>
+    <span class="source-tag">CISA ICS</span>
+  </div>
+  <div class="card-body">
+    <div class="card-meta"><span>9-1-2026</span><span>FactoryTalk Activation Manager</span></div>
+    <div style="margin-bottom:8px"><span class="cve-pill">CVE-2026-16675</span> </div>
+    <div class="card-summary">CISA recommends users take defensive measures to minimize the risk of exploitation of these vulnerabilities.</div>
+  </div>
+  <div class="card-footer">
+    <a href="cve/03329fae8f50ed0144fe4615912841cd.html">Details</a>
+    <a href="https://www.cisa.gov/news-events/ics-advisories/icsa-26-244-04" target="_blank" rel="noopener">Source</a>
+  </div>
+</div>
+<div class="finding-card" data-source="CISA_ICS" data-products="Compact GuardLogix 5380,GuardLogix 5580,CompactLogix 5380,ControlLogix 5580" data-severity="High" data-published="1788242400000">
+  <div class="card-header">
+    <div class="card-title"><a href="https://www.cisa.gov/news-events/ics-advisories/icsa-26-244-03" target="_blank" rel="noopener">Rockwell Automation Logix Platform</a></div>
+    <span class="severity-badge sev-high">High</span>
+    <span class="source-tag">CISA ICS</span>
+  </div>
+  <div class="card-body">
+    <div class="card-meta"><span>9-1-2026</span><span>Compact GuardLogix 5380, GuardLogix 5580, CompactLogix 5380, ControlLogix 5580</span></div>
+    <div style="margin-bottom:8px"><span class="cve-pill">CVE-2026-9637</span> </div>
+    <div class="card-summary">CISA recommends users take defensive measures to minimize the risk of exploitation of these vulnerabilities.</div>
+  </div>
+  <div class="card-footer">
+    <a href="cve/61495b8285e3ec4f02d4831c36aa4b74.html">Details</a>
+    <a href="https://www.cisa.gov/news-events/ics-advisories/icsa-26-244-03" target="_blank" rel="noopener">Source</a>
+  </div>
+</div>
+<div class="finding-card" data-source="CISA_ICS" data-products="Redundancy Module Configuration Tool" data-severity="High" data-published="1788242400000">
+  <div class="card-header">
+    <div class="card-title"><a href="https://www.cisa.gov/news-events/ics-advisories/icsa-26-244-02" target="_blank" rel="noopener">Rockwell Automation Redundancy Module Configuration Tool</a></div>
+    <span class="severity-badge sev-high">High</span>
+    <span class="source-tag">CISA ICS</span>
+  </div>
+  <div class="card-body">
+    <div class="card-meta"><span>9-1-2026</span><span>Redundancy Module Configuration Tool</span></div>
+    <div style="margin-bottom:8px"><span class="cve-pill">CVE-2026-9633</span> <span class="cve-pill">CVE-2026-9634</span> </div>
+    <div class="card-summary">Successful exploitation of these vulnerabilities could allow for an attacker to escalate and execute processes with administrator privileges.</div>
+  </div>
+  <div class="card-footer">
+    <a href="cve/62beb2dec7375af73c70b95e4a8d3770.html">Details</a>
+    <a href="https://www.cisa.gov/news-events/ics-advisories/icsa-26-244-02" target="_blank" rel="noopener">Source</a>
+  </div>
+</div>
+<div class="finding-card" data-source="CISA_ICS" data-products="RSLinx Classic" data-severity="High" data-published="1788242400000">
+  <div class="card-header">
+    <div class="card-title"><a href="https://www.cisa.gov/news-events/ics-advisories/icsa-26-244-01" target="_blank" rel="noopener">Rockwell Automation RSLinx Classic</a></div>
+    <span class="severity-badge sev-high">High</span>
+    <span class="source-tag">CISA ICS</span>
+  </div>
+  <div class="card-body">
+    <div class="card-meta"><span>9-1-2026</span><span>RSLinx Classic</span></div>
+    <div style="margin-bottom:8px"><span class="cve-pill">CVE-2026-9621</span> <span class="cve-pill">CVE-2026-9622</span> <span class="cve-pill">CVE-2026-9624</span> <span class="cve-pill">CVE-2026-9625</span> </div>
+    <div class="card-summary">Successful exploitation of these vulnerabilities could allow an attacker to cause a denial-of-service condition on the affected product. </div>
+  </div>
+  <div class="card-footer">
+    <a href="cve/d99caab3a6558030c4419b9841cf12ef.html">Details</a>
+    <a href="https://www.cisa.gov/news-events/ics-advisories/icsa-26-244-01" target="_blank" rel="noopener">Source</a>
+  </div>
+</div>
 <div class="finding-card" data-source="ROCKWELL" data-products="Redundancy Module Configuration Tool" data-severity="High" data-published="1788220800000">
   <div class="card-header">
     <div class="card-title"><a href="https://www.rockwellautomation.com/en-us/trust-center/security-advisories/advisory.SD1800.html" target="_blank" rel="noopener">SD1800 | Redundancy Module Configuration Tool - Multiple Vulnerabilities</a></div>
@@ -701,7 +797,7 @@ footer {
 </div>
 </main>
 <footer>
-  Last updated: 2026-09-01 16:28 UTC &nbsp;|&nbsp; <a href="rss.xml">RSS Feed</a>
+  Last updated: 2026-09-01 20:57 UTC &nbsp;|&nbsp; <a href="rss.xml">RSS Feed</a>
 </footer>
 
 <script>

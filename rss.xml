@@ -5,7 +5,55 @@
     <link>https://intel.johncrynick.com</link>
     <description>Latest Rockwell Automation vulnerability intelligence from CISA, NVD, and security news</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Sep 2026 16:28:04 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 20:57:39 +0000</lastBuildDate>
+  <item>
+    <title>Rockwell Automation Historian ME</title>
+    <link>https://intel.johncrynick.com/cve/e7d16ff606971a9b22743987b4876ae7.html</link>
+    <description>Successful exploitation of these vulnerabilities could crash the device being accessed; an out-of-bounds write condition may allow remote code execution.</description>
+    <pubDate>Tue, 01 Sep 2026 06:00:00 +0000</pubDate>
+    <category>CISA_ICS</category>
+    <guid isPermaLink="true">https://intel.johncrynick.com/cve/e7d16ff606971a9b22743987b4876ae7.html</guid>
+  </item>
+  <item>
+    <title>Rockwell Automation ControlLogix, CompactLogix, CompactLogix 5480, GuardLogix, Compact GuardLogix</title>
+    <link>https://intel.johncrynick.com/cve/9dc6728eb231b976e5f71a4568c890df.html</link>
+    <description>CISA recommends users take defensive measures to minimize the risk of exploitation of these vulnerabilities.</description>
+    <pubDate>Tue, 01 Sep 2026 06:00:00 +0000</pubDate>
+    <category>CISA_ICS</category>
+    <guid isPermaLink="true">https://intel.johncrynick.com/cve/9dc6728eb231b976e5f71a4568c890df.html</guid>
+  </item>
+  <item>
+    <title>Rockwell Automation FactoryTalk Activation Manager</title>
+    <link>https://intel.johncrynick.com/cve/03329fae8f50ed0144fe4615912841cd.html</link>
+    <description>CISA recommends users take defensive measures to minimize the risk of exploitation of these vulnerabilities.</description>
+    <pubDate>Tue, 01 Sep 2026 06:00:00 +0000</pubDate>
+    <category>CISA_ICS</category>
+    <guid isPermaLink="true">https://intel.johncrynick.com/cve/03329fae8f50ed0144fe4615912841cd.html</guid>
+  </item>
+  <item>
+    <title>Rockwell Automation Logix Platform</title>
+    <link>https://intel.johncrynick.com/cve/61495b8285e3ec4f02d4831c36aa4b74.html</link>
+    <description>CISA recommends users take defensive measures to minimize the risk of exploitation of these vulnerabilities.</description>
+    <pubDate>Tue, 01 Sep 2026 06:00:00 +0000</pubDate>
+    <category>CISA_ICS</category>
+    <guid isPermaLink="true">https://intel.johncrynick.com/cve/61495b8285e3ec4f02d4831c36aa4b74.html</guid>
+  </item>
+  <item>
+    <title>Rockwell Automation Redundancy Module Configuration Tool</title>
+    <link>https://intel.johncrynick.com/cve/62beb2dec7375af73c70b95e4a8d3770.html</link>
+    <description>Successful exploitation of these vulnerabilities could allow for an attacker to escalate and execute processes with administrator privileges.</description>
+    <pubDate>Tue, 01 Sep 2026 06:00:00 +0000</pubDate>
+    <category>CISA_ICS</category>
+    <guid isPermaLink="true">https://intel.johncrynick.com/cve/62beb2dec7375af73c70b95e4a8d3770.html</guid>
+  </item>
+  <item>
+    <title>Rockwell Automation RSLinx Classic</title>
+    <link>https://intel.johncrynick.com/cve/d99caab3a6558030c4419b9841cf12ef.html</link>
+    <description>Successful exploitation of these vulnerabilities could allow an attacker to cause a denial-of-service condition on the affected product. </description>
+    <pubDate>Tue, 01 Sep 2026 06:00:00 +0000</pubDate>
+    <category>CISA_ICS</category>
+    <guid isPermaLink="true">https://intel.johncrynick.com/cve/d99caab3a6558030c4419b9841cf12ef.html</guid>
+  </item>
   <item>
     <title>SD1800 | Redundancy Module Configuration Tool - Multiple Vulnerabilities</title>
     <link>https://intel.johncrynick.com/cve/a7d225e7d2ed6503cb840b9d56c32b39.html</link>
@@ -357,54 +405,6 @@
     <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
     <category>ROCKWELL</category>
     <guid isPermaLink="true">https://intel.johncrynick.com/cve/5b590f399da84419bc383997114e9356.html</guid>
-  </item>
-  <item>
-    <title>SD1779 | 1734 POINT I/O - Denial of Service via Malformed Inputs on CIP Object</title>
-    <link>https://intel.johncrynick.com/cve/f3f20365872fc5bff0324a51af03e460.html</link>
-    <description></description>
-    <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
-    <category>ROCKWELL</category>
-    <guid isPermaLink="true">https://intel.johncrynick.com/cve/f3f20365872fc5bff0324a51af03e460.html</guid>
-  </item>
-  <item>
-    <title>SD1778 | 1718-AENTR/1719-AENTR - Denial of Service</title>
-    <link>https://intel.johncrynick.com/cve/d28ee5eebb66c10b9be618f36add834b.html</link>
-    <description></description>
-    <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
-    <category>ROCKWELL</category>
-    <guid isPermaLink="true">https://intel.johncrynick.com/cve/d28ee5eebb66c10b9be618f36add834b.html</guid>
-  </item>
-  <item>
-    <title>CVE-2024-2658 vulnerability in Schneider Electric software: risks to industrial control systems - Securelist</title>
-    <link>https://intel.johncrynick.com/cve/ff39750a91562122c236e17c19ff3d5d.html</link>
-    <description>CVE-2024-2658 vulnerability in Schneider Electric software: risks to industrial control systems  Securelist</description>
-    <pubDate>Fri, 26 Jun 2026 13:00:14 +0000</pubDate>
-    <category>NEWS</category>
-    <guid isPermaLink="true">https://intel.johncrynick.com/cve/ff39750a91562122c236e17c19ff3d5d.html</guid>
-  </item>
-  <item>
-    <title>First-Ever Exploitation of PTC Windchill Vulnerability Discovered in the Wild - SecurityWeek</title>
-    <link>https://intel.johncrynick.com/cve/783abf460c1f916af4c22a77f80d5dfb.html</link>
-    <description>First-Ever Exploitation of PTC Windchill Vulnerability Discovered in the Wild  SecurityWeek</description>
-    <pubDate>Fri, 26 Jun 2026 08:23:19 +0000</pubDate>
-    <category>NEWS</category>
-    <guid isPermaLink="true">https://intel.johncrynick.com/cve/783abf460c1f916af4c22a77f80d5dfb.html</guid>
-  </item>
-  <item>
-    <title>First-Ever Exploitation of PTC Windchill Vulnerability Discovered in the Wild - SecurityWeek</title>
-    <link>https://intel.johncrynick.com/cve/ab979a53a0855ab4fcb7e44e82440dbe.html</link>
-    <description>First-Ever Exploitation of PTC Windchill Vulnerability Discovered in the Wild  SecurityWeek</description>
-    <pubDate>Fri, 26 Jun 2026 07:00:00 +0000</pubDate>
-    <category>NEWS</category>
-    <guid isPermaLink="true">https://intel.johncrynick.com/cve/ab979a53a0855ab4fcb7e44e82440dbe.html</guid>
-  </item>
-  <item>
-    <title>Lantronix Serial-to-IP Converter Flaw Exploited in Attacks After OT Threat Warning - SecurityWeek</title>
-    <link>https://intel.johncrynick.com/cve/51ff1c35a7a044b3532eb48d362c6115.html</link>
-    <description>Lantronix Serial-to-IP Converter Flaw Exploited in Attacks After OT Threat Warning  SecurityWeek</description>
-    <pubDate>Thu, 25 Jun 2026 11:23:40 +0000</pubDate>
-    <category>NEWS</category>
-    <guid isPermaLink="true">https://intel.johncrynick.com/cve/51ff1c35a7a044b3532eb48d362c6115.html</guid>
   </item>
   </channel>
 </rss>

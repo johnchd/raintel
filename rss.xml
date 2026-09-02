@@ -5,7 +5,7 @@
     <link>https://intel.johncrynick.com</link>
     <description>Latest Rockwell Automation vulnerability intelligence from CISA, NVD, and security news</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Sep 2026 20:57:39 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 04:06:01 +0000</lastBuildDate>
   <item>
     <title>Rockwell Automation Historian ME</title>
     <link>https://intel.johncrynick.com/cve/e7d16ff606971a9b22743987b4876ae7.html</link>
@@ -149,6 +149,14 @@
     <pubDate>Thu, 06 Aug 2026 12:16:00 +0000</pubDate>
     <category>NEWS</category>
     <guid isPermaLink="true">https://intel.johncrynick.com/cve/5e3a6e7387f4adb63a10c936183526fe.html</guid>
+  </item>
+  <item>
+    <title>Feds Warn About Iranian Hackers Expanding the List of Targeted PLCs to Compromise Critical Infrastructure - CPO Magazine</title>
+    <link>https://intel.johncrynick.com/cve/b08cb7f9277b44cc56c813ebd30713dc.html</link>
+    <description>Feds Warn About Iranian Hackers Expanding the List of Targeted PLCs to Compromise Critical Infrastructure  CPO Magazine</description>
+    <pubDate>Mon, 03 Aug 2026 07:00:00 +0000</pubDate>
+    <category>NEWS</category>
+    <guid isPermaLink="true">https://intel.johncrynick.com/cve/b08cb7f9277b44cc56c813ebd30713dc.html</guid>
   </item>
   <item>
     <title>Rockwell Automation CompactLogix 5380 ControlLogix 5580 / 1756-EN4TR Communications Module</title>
@@ -397,14 +405,6 @@
     <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
     <category>ROCKWELL</category>
     <guid isPermaLink="true">https://intel.johncrynick.com/cve/95d0a17ebf7b7d8bd24fe4a10167ceed.html</guid>
-  </item>
-  <item>
-    <title>SD1780 | 1756-EN2, 1756-EN3, and 1756-ENBT - Denial of Service via CIP Connection ID</title>
-    <link>https://intel.johncrynick.com/cve/5b590f399da84419bc383997114e9356.html</link>
-    <description></description>
-    <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
-    <category>ROCKWELL</category>
-    <guid isPermaLink="true">https://intel.johncrynick.com/cve/5b590f399da84419bc383997114e9356.html</guid>
   </item>
   </channel>
 </rss>

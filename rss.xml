@@ -5,7 +5,23 @@
     <link>https://intel.johncrynick.com</link>
     <description>Latest Rockwell Automation vulnerability intelligence from CISA, NVD, and security news</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 02 Sep 2026 11:04:30 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 16:25:22 +0000</lastBuildDate>
+  <item>
+    <title>Rockwell Automation Patches Over a Dozen Vulnerabilities Across Products - SecurityWeek</title>
+    <link>https://intel.johncrynick.com/cve/f718de5dc0baf58da87e462d463b995d.html</link>
+    <description>Rockwell Automation Patches Over a Dozen Vulnerabilities Across Products  SecurityWeek</description>
+    <pubDate>Wed, 02 Sep 2026 12:39:07 +0000</pubDate>
+    <category>NEWS</category>
+    <guid isPermaLink="true">https://intel.johncrynick.com/cve/f718de5dc0baf58da87e462d463b995d.html</guid>
+  </item>
+  <item>
+    <title>SonicWall Warns of Two SMA1000 Zero-Days Exploited in Attacks - SecurityWeek</title>
+    <link>https://intel.johncrynick.com/cve/1fd7ebf81d6778d0438fb7c1804b1ba6.html</link>
+    <description>SonicWall Warns of Two SMA1000 Zero-Days Exploited in Attacks  SecurityWeek</description>
+    <pubDate>Wed, 02 Sep 2026 05:04:52 +0000</pubDate>
+    <category>NEWS</category>
+    <guid isPermaLink="true">https://intel.johncrynick.com/cve/1fd7ebf81d6778d0438fb7c1804b1ba6.html</guid>
+  </item>
   <item>
     <title>Rockwell Automation Historian ME</title>
     <link>https://intel.johncrynick.com/cve/e7d16ff606971a9b22743987b4876ae7.html</link>
@@ -389,22 +405,6 @@
     <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
     <category>ROCKWELL</category>
     <guid isPermaLink="true">https://intel.johncrynick.com/cve/bd8966c7c74803024c57a02d745e8b0d.html</guid>
-  </item>
-  <item>
-    <title>SD1782 | ThinManager® - Path Traversal via API</title>
-    <link>https://intel.johncrynick.com/cve/08b8ecb9f08ae35fea4bc3798d1fe052.html</link>
-    <description></description>
-    <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
-    <category>ROCKWELL</category>
-    <guid isPermaLink="true">https://intel.johncrynick.com/cve/08b8ecb9f08ae35fea4bc3798d1fe052.html</guid>
-  </item>
-  <item>
-    <title>SD1781 | CompactLogix ®, ControlLogix ®, Compact GuardLogix ® and GuardLogix ® Buffer Overflow</title>
-    <link>https://intel.johncrynick.com/cve/95d0a17ebf7b7d8bd24fe4a10167ceed.html</link>
-    <description></description>
-    <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
-    <category>ROCKWELL</category>
-    <guid isPermaLink="true">https://intel.johncrynick.com/cve/95d0a17ebf7b7d8bd24fe4a10167ceed.html</guid>
   </item>
   </channel>
 </rss>

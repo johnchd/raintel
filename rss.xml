@@ -5,7 +5,39 @@
     <link>https://intel.johncrynick.com</link>
     <description>Latest Rockwell Automation vulnerability intelligence from CISA, NVD, and security news</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 03 Sep 2026 16:17:47 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 20:54:13 +0000</lastBuildDate>
+  <item>
+    <title>Rockwell Automation 1756-ENBT Module</title>
+    <link>https://intel.johncrynick.com/cve/c67add06d21c2c21c1694d741b7c71eb.html</link>
+    <description>Successful exploitation of this vulnerability could crash the module. The device requires a restart to recover.</description>
+    <pubDate>Thu, 03 Sep 2026 06:00:00 +0000</pubDate>
+    <category>CISA_ICS</category>
+    <guid isPermaLink="true">https://intel.johncrynick.com/cve/c67add06d21c2c21c1694d741b7c71eb.html</guid>
+  </item>
+  <item>
+    <title>Rockwell Automation ArmorStart LT</title>
+    <link>https://intel.johncrynick.com/cve/b233db0d668a878463747c6689256458.html</link>
+    <description>Successful exploitation of these vulnerabilities could result in a loss of webserver availability or allow an attacker to inject malicious scripts that will be executed when other users access the affected page.</description>
+    <pubDate>Thu, 03 Sep 2026 06:00:00 +0000</pubDate>
+    <category>CISA_ICS</category>
+    <guid isPermaLink="true">https://intel.johncrynick.com/cve/b233db0d668a878463747c6689256458.html</guid>
+  </item>
+  <item>
+    <title>Rockwell Automation ControlFLASH</title>
+    <link>https://intel.johncrynick.com/cve/b8278f981b36f014b0e103fc0b5c1308.html</link>
+    <description>Successful exploitation of this vulnerability could give an attacker the ability to run any commands or code of the attacker&#x27;s choice on a target machine at the logged-in user&#x27;s permission level.</description>
+    <pubDate>Thu, 03 Sep 2026 06:00:00 +0000</pubDate>
+    <category>CISA_ICS</category>
+    <guid isPermaLink="true">https://intel.johncrynick.com/cve/b8278f981b36f014b0e103fc0b5c1308.html</guid>
+  </item>
+  <item>
+    <title>OPCFoundation OPC UA LocalDiscoveryServer (LDS)</title>
+    <link>https://intel.johncrynick.com/cve/b84365d62d143386abccde4e47a451ac.html</link>
+    <description>Successful exploitation of this vulnerability could allow an attacker to take control of a high-privilege terminal during installation and run arbitrary commands.</description>
+    <pubDate>Thu, 03 Sep 2026 06:00:00 +0000</pubDate>
+    <category>CISA_ICS</category>
+    <guid isPermaLink="true">https://intel.johncrynick.com/cve/b84365d62d143386abccde4e47a451ac.html</guid>
+  </item>
   <item>
     <title>Rockwell Automation Patches Over a Dozen Vulnerabilities Across Products - SecurityWeek</title>
     <link>https://intel.johncrynick.com/cve/f718de5dc0baf58da87e462d463b995d.html</link>
@@ -149,6 +181,14 @@
     <pubDate>Thu, 27 Aug 2026 06:00:00 +0000</pubDate>
     <category>CISA_ICS</category>
     <guid isPermaLink="true">https://intel.johncrynick.com/cve/d2c06bbdc009b300bf54141cbe632932.html</guid>
+  </item>
+  <item>
+    <title>Microsoft Patches Exploited Entra ID Vulnerability - SecurityWeek</title>
+    <link>https://intel.johncrynick.com/cve/250d49b3a8bd8869ac808d7f1d177a0e.html</link>
+    <description>Microsoft Patches Exploited Entra ID Vulnerability  SecurityWeek</description>
+    <pubDate>Fri, 21 Aug 2026 07:00:00 +0000</pubDate>
+    <category>NEWS</category>
+    <guid isPermaLink="true">https://intel.johncrynick.com/cve/250d49b3a8bd8869ac808d7f1d177a0e.html</guid>
   </item>
   <item>
     <title>SD1791 | OTTO® Fleet Manager – Weak Password Hashing Configuration</title>
@@ -365,46 +405,6 @@
     <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
     <category>ROCKWELL</category>
     <guid isPermaLink="true">https://intel.johncrynick.com/cve/679421b8a5cad3c3a30851dffafd5faf.html</guid>
-  </item>
-  <item>
-    <title>SD1784 | Arena® - Memory Corruption Vulnerability</title>
-    <link>https://intel.johncrynick.com/cve/097616c1e9b068e4a9b939e6d256b588.html</link>
-    <description></description>
-    <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
-    <category>ROCKWELL</category>
-    <guid isPermaLink="true">https://intel.johncrynick.com/cve/097616c1e9b068e4a9b939e6d256b588.html</guid>
-  </item>
-  <item>
-    <title>SD1788 | CompactLogix® 5380 ControlLogix® 5580 / 1756-EN4 Communications Module – Certificate Revocation List Vulnerability</title>
-    <link>https://intel.johncrynick.com/cve/c307aacf86f88745d91d630f424bc1f9.html</link>
-    <description></description>
-    <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
-    <category>ROCKWELL</category>
-    <guid isPermaLink="true">https://intel.johncrynick.com/cve/c307aacf86f88745d91d630f424bc1f9.html</guid>
-  </item>
-  <item>
-    <title>SD1787 | FactoryTalk® DataMosaix™ Private Cloud - Stored Cross-Site Scripting</title>
-    <link>https://intel.johncrynick.com/cve/e520a85cb34b7cebd97178e7522502e8.html</link>
-    <description></description>
-    <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
-    <category>ROCKWELL</category>
-    <guid isPermaLink="true">https://intel.johncrynick.com/cve/e520a85cb34b7cebd97178e7522502e8.html</guid>
-  </item>
-  <item>
-    <title>SD1786 | FactoryTalk® Services Platform FTSP - Weak Authentication via JWT Validation Bypass</title>
-    <link>https://intel.johncrynick.com/cve/ca8210a45fa1df5a87b336e510a102aa.html</link>
-    <description></description>
-    <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
-    <category>ROCKWELL</category>
-    <guid isPermaLink="true">https://intel.johncrynick.com/cve/ca8210a45fa1df5a87b336e510a102aa.html</guid>
-  </item>
-  <item>
-    <title>SD1789 | Flex 5000® Adapter - Denial of Service</title>
-    <link>https://intel.johncrynick.com/cve/c39f3240d84cf0b5aa81097b72e7b572.html</link>
-    <description></description>
-    <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
-    <category>ROCKWELL</category>
-    <guid isPermaLink="true">https://intel.johncrynick.com/cve/c39f3240d84cf0b5aa81097b72e7b572.html</guid>
   </item>
   </channel>
 </rss>

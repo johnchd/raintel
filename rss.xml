@@ -5,7 +5,7 @@
     <link>https://intel.johncrynick.com</link>
     <description>Latest Rockwell Automation vulnerability intelligence from CISA, NVD, and security news</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 02 Sep 2026 20:55:32 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 04:04:46 +0000</lastBuildDate>
   <item>
     <title>Rockwell Automation Patches Over a Dozen Vulnerabilities Across Products - SecurityWeek</title>
     <link>https://intel.johncrynick.com/cve/f718de5dc0baf58da87e462d463b995d.html</link>
@@ -239,6 +239,14 @@
     <guid isPermaLink="true">https://intel.johncrynick.com/cve/03395e637d390158098c2e8c448808de.html</guid>
   </item>
   <item>
+    <title>Hackers Exploit Industrial PLCs and Manipulate HMI Displays to Hide Attacks - gbhackers.com</title>
+    <link>https://intel.johncrynick.com/cve/230d7670cd8396d5d070424ccbc3061c.html</link>
+    <description>Hackers Exploit Industrial PLCs and Manipulate HMI Displays to Hide Attacks  gbhackers.com</description>
+    <pubDate>Sat, 25 Jul 2026 07:00:00 +0000</pubDate>
+    <category>NEWS</category>
+    <guid isPermaLink="true">https://intel.johncrynick.com/cve/230d7670cd8396d5d070424ccbc3061c.html</guid>
+  </item>
+  <item>
     <title>CISA, FBI warn that Iran-linked hackers are expanding target set for water, energy - Cybersecurity Dive</title>
     <link>https://intel.johncrynick.com/cve/6ade3ea022c54a07ef2ec333931a6014.html</link>
     <description>CISA, FBI warn that Iran-linked hackers are expanding target set for water, energy  Cybersecurity Dive</description>
@@ -397,14 +405,6 @@
     <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
     <category>ROCKWELL</category>
     <guid isPermaLink="true">https://intel.johncrynick.com/cve/c39f3240d84cf0b5aa81097b72e7b572.html</guid>
-  </item>
-  <item>
-    <title>SD1783 | Studio 5000 Logix Designer® – Multiple Vulnerabilities</title>
-    <link>https://intel.johncrynick.com/cve/bd8966c7c74803024c57a02d745e8b0d.html</link>
-    <description></description>
-    <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
-    <category>ROCKWELL</category>
-    <guid isPermaLink="true">https://intel.johncrynick.com/cve/bd8966c7c74803024c57a02d745e8b0d.html</guid>
   </item>
   </channel>
 </rss>
